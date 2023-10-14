@@ -381,11 +381,12 @@ namespace GaebToolBoxVersionCompare2
 
         private static string? GetXmlDiff(string leftFile, string rightFile)
         {
-            var diffOptions = new XmlDiffOptions()
+            var differ = new XmlDiff()
             {
-
+                IgnoreComments = true,
+                IgnoreWhitespace = true,
             };
-            var differ = new XmlDiff(diffOptions);
+
             using var sw = new StringWriter();
             var settings = new XmlWriterSettings() { OmitXmlDeclaration = true, Indent = true, };
             using var writer = XmlWriter.Create(sw, settings);
