@@ -4,8 +4,10 @@ using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Xml;
 using DiffPlex.DiffBuilder;
 using DiffPlex.DiffBuilder.Model;
+using Microsoft.XmlDiffPatch;
 using Spectre.Console;
 
 namespace GaebToolBoxVersionCompare2
@@ -218,9 +220,7 @@ namespace GaebToolBoxVersionCompare2
                 Convert(path, result.CorePath, _fileTypeGaeb90, _appCore, settings);
                 Convert(path, result.FrameworkPath, _fileTypeGaeb90, _appFramework, settings);
 
-                var coreLines = File.ReadAllText(result.CorePath);
-                var frameworkLines = File.ReadAllText(result.FrameworkPath);
-                var diff = GetDiff(frameworkLines, coreLines);
+                var diff = GetTextDiff(result.FrameworkPath, result.CorePath);
                 if (diff != null)
                 {
                     result.ErrorMessage = diff;
@@ -236,9 +236,102 @@ namespace GaebToolBoxVersionCompare2
             }
         }
 
-        private static string? GetDiff(string left, string right)
+        public static ErrorDetails? CheckGaeb2000(string path, Options settings)
         {
-            var diff = InlineDiffBuilder.Diff(left, right);
+            var result = new ErrorDetails()
+            {
+                File = path,
+            };
+            try
+            {
+                var fileName = Path.GetFileName(path);
+                result.CorePath = Path.Combine(settings.OutputPath, "core", "gaeb2000", fileName);
+                result.FrameworkPath = Path.Combine(settings.OutputPath, "framework", "gaeb2000", fileName);
+
+                Convert(path, result.CorePath, _fileTypeGaeb2000, _appCore, settings);
+                Convert(path, result.FrameworkPath, _fileTypeGaeb2000, _appFramework, settings);
+
+                var diff = GetTextDiff(result.FrameworkPath, result.CorePath);
+                if (diff != null)
+                {
+                    result.ErrorMessage = diff;
+                    return result;
+                }
+
+                return null;
+            }
+            catch (Exception ex)
+            {
+                result.Exception = ex;
+                return result;
+            }
+        }
+
+        public static ErrorDetails? CheckGaebXml(string path, Options settings)
+        {
+            var result = new ErrorDetails()
+            {
+                File = path,
+            };
+            try
+            {
+                var fileName = Path.GetFileName(path);
+                result.CorePath = Path.Combine(settings.OutputPath, "core", "gaebXml", fileName);
+                result.FrameworkPath = Path.Combine(settings.OutputPath, "framework", "gaebXml", fileName);
+
+                Convert(path, result.CorePath, _fileTypeGaebXml, _appCore, settings);
+                Convert(path, result.FrameworkPath, _fileTypeGaebXml, _appFramework, settings);
+
+                var diff = GetXmlDiff(result.FrameworkPath, result.CorePath);
+                if (diff != null)
+                {
+                    result.ErrorMessage = diff;
+                    return result;
+                }
+
+                return null;
+            }
+            catch (Exception ex)
+            {
+                result.Exception = ex;
+                return result;
+            }
+        }
+
+        private static void Convert(string inputPath, string outputPath, string format, string app, Options settings)
+        {
+            var process = new Process()
+            {
+                StartInfo = new ProcessStartInfo()
+                {
+                    FileName = app,
+                    CreateNoWindow = true,
+                    RedirectStandardOutput = true,
+                    UseShellExecute = false,
+                    Arguments = $"-i \"{inputPath}\" -o \"{outputPath}\" -f \"{format}\" -s \"{settings.SerialNumber}\" -c \"{settings.ConverterSerialNumber}\"",
+                },
+            };
+
+            process.Start();
+
+            var output = new StringBuilder();
+            string? line;
+            while ((line = process.StandardOutput.ReadLine()) != null)
+                output.AppendLine(line);
+
+            process.WaitForExit();
+            if (process.ExitCode != 0)
+            {
+                throw new Exception($"error converting with {app}: {output}");
+            }
+        }
+
+        private static string? GetTextDiff(string leftFile, string rightFile)
+        {
+            var leftText = File.ReadAllText(leftFile);
+            var rightText = File.ReadAllText(rightFile);
+
+            var diff = InlineDiffBuilder.Diff(leftText, rightText);
             if (!diff.HasDifferences)
                 return null;
 
@@ -286,98 +379,21 @@ namespace GaebToolBoxVersionCompare2
             return result.ToString();
         }
 
-        public static ErrorDetails? CheckGaeb2000(string path, Options settings)
+        private static string? GetXmlDiff(string leftFile, string rightFile)
         {
-            var result = new ErrorDetails()
+            var diffOptions = new XmlDiffOptions()
             {
-                File = path,
+
             };
-            try
-            {
-                var fileName = Path.GetFileName(path);
-                result.CorePath = Path.Combine(settings.OutputPath, "core", "gaeb2000", path);
-                result.FrameworkPath = Path.Combine(settings.OutputPath, "framework", "gaeb2000", path);
+            var differ = new XmlDiff(diffOptions);
+            using var sw = new StringWriter();
+            var settings = new XmlWriterSettings() { OmitXmlDeclaration = true, Indent = true, };
+            using var writer = XmlWriter.Create(sw, settings);
 
-                Convert(path, result.CorePath, _fileTypeGaeb2000, _appCore, settings);
-                Convert(path, result.FrameworkPath, _fileTypeGaeb2000, _appFramework, settings);
-
-                var coreLines = File.ReadAllText(result.CorePath);
-                var frameworkLines = File.ReadAllText(result.FrameworkPath);
-                var diff = GetDiff(frameworkLines, coreLines);
-                if (diff != null)
-                {
-                    result.ErrorMessage = diff;
-                    return result;
-                }
-
+            if (differ.Compare(leftFile, rightFile, false, writer))
                 return null;
-            }
-            catch (Exception ex)
-            {
-                result.Exception = ex;
-                return result;
-            }
-        }
 
-        public static ErrorDetails? CheckGaebXml(string path, Options settings)
-        {
-            var result = new ErrorDetails()
-            {
-                File = path,
-            };
-            try
-            {
-                var fileName = Path.GetFileName(path);
-                result.CorePath = Path.Combine(settings.OutputPath, "core", "gaebXml", path);
-                result.FrameworkPath = Path.Combine(settings.OutputPath, "framework", "gaebXml", path);
-
-                Convert(path, result.CorePath, _fileTypeGaebXml, _appCore, settings);
-                Convert(path, result.FrameworkPath, _fileTypeGaebXml, _appFramework, settings);
-
-                var coreLines = File.ReadAllText(result.CorePath);
-                var frameworkLines = File.ReadAllText(result.FrameworkPath);
-                var diff = GetDiff(frameworkLines, coreLines);
-                if (diff != null)
-                {
-                    result.ErrorMessage = diff;
-                    return result;
-                }
-
-                return null;
-            }
-            catch (Exception ex)
-            {
-                result.Exception = ex;
-                return result;
-            }
-        }
-
-        private static void Convert(string inputPath, string outputPath, string format, string app, Options settings)
-        {
-            var process = new Process()
-            {
-                StartInfo = new ProcessStartInfo()
-                {
-                    FileName = app,
-                    CreateNoWindow = true,
-                    RedirectStandardOutput = true,
-                    UseShellExecute = false,
-                    Arguments = $"-i \"{inputPath}\" -o \"{outputPath}\" -f \"{format}\" -s \"{settings.SerialNumber}\" -c \"{settings.ConverterSerialNumber}\"",
-                },
-            };
-
-            process.Start();
-
-            var output = new StringBuilder();
-            string? line;
-            while ((line = process.StandardOutput.ReadLine()) != null)
-                output.AppendLine(line);
-
-            process.WaitForExit();
-            if (process.ExitCode != 0)
-            {
-                throw new Exception($"error converting with {app}: {output}");
-            }
+            return sw.ToString();
         }
     }
 }
