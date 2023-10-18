@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- GXML Toolbox V3.1 R20080717;  http://www.gaeb-toolbox.de/ 
+ gtcConverter.dll used version 1.3.1.17  -->
+<GAEB xmlns="http://www.gaeb.de/GAEB_DA_XML/200407">
+ <GAEBInfo>
+  <Version>3.1</Version>
+  <VersDate>2007-06</VersDate>
+  <Date>2009-01-05</Date>
+  <Time>13:56:06</Time>
+  <ProgSystem>/ GXML Toolbox V3.1 R20080717</ProgSystem>
+  <ProgName>ARRIBAp V12.4.478</ProgName>
+ </GAEBInfo>
+ <PrjInfo>
+  <NamePrj>GAEB0002</NamePrj>
+  <LblPrj>Musterprojekt für Leistungsverzeichnisse nach GAEB</LblPrj>
+  <Cur>EUR</Cur>
+  <CurLbl>Euro</CurLbl>
+  <AlterBidPerm>Yes</AlterBidPerm>
+ </PrjInfo>
+ <Award>
+  <DP>86</DP>
+  <AwardInfo>
+   <Cat>OpenCall</Cat>
+   <Cur>EUR</Cur>
+   <CurLbl>Euro</CurLbl>
+   <OpenDate>2009-01-25</OpenDate>
+   <OpenTime>13:32:25</OpenTime>
+   <EvalEnd>2009-02-08</EvalEnd>
+   <SubmLoc>Zi. 5 in der OFD Gaebhausen</SubmLoc>
+   <CnstStart>2009-04-11</CnstStart>
+   <CnstEnd>2009-11-08</CnstEnd>
+   <ContrNo>Auftrnummer-34567890</ContrNo>
+   <AcceptType>Förmliche Abnahme</AcceptType>
+   <WarrDur>2</WarrDur>
+   <WarrUnit>Years</WarrUnit>
+   <CashDiscount>
+    <CashDiscDays Days="18"/>
+    <DiscountPcnt>0.00</DiscountPcnt>
+   </CashDiscount>
+  </AwardInfo>
+  <OWN>
+   <Address>
+    <Name1>OfD GAEBhausen</Name1>
+    <Name4>Abteilung Hochbau</Name4>
+    <Street>Hohe Gasse 200</Street>
+    <PCode>79879</PCode>
+    <City>GAEBhausen</City>
+   </Address>
+   <AwardNo>V-3456789012345</AwardNo>
+  </OWN>
+  <AddText>
+   <OutlineAddText>
+    <p>
+     <span>Beschreibung</span>
+    </p>
+   </OutlineAddText>
+   <DetailAddText>
+    <p style="text-align:center;">
+     <span style="font-family:Arial;font-size:16pt;color:rgb(0,0,0);font-weight:bold;">Struktur des Musterleistungsverzeichnisses</span>
+    </p>
+    <p style="text-align:left;font-size:10pt;font-family:Arial;color:rgb(0,0,0);">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);"/>
+    </p>
+    <p style="text-align:left;font-size:10pt;font-family:Arial;color:rgb(0,0,0);">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);"/>
+    </p>
+    <p style="text-align:left;">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Dieses Musterleistungsverzeichnis ist ohne Hierarchien aufgebaut. </span>
+    </p>
+    <p style="text-align:left;font-size:10pt;font-family:Arial;color:rgb(0,0,0);">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);"/>
+    </p>
+    <p style="text-align:left;">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Es hat folgende OZ-Struktur:</span>
+    </p>
+    <table cellpadding="0" org="TAB">
+     <tr>
+      <td valign="top" style="" colspan="4">
+       <p style="text-align:left;font-size:10pt;font-family:Arial;color:rgb(0,0,0);">
+        <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);"/>
+       </p>
+      </td>
+     </tr>
+     <tr>
+      <td valign="top" style="width:48;">
+       <p style="text-align:left;font-size:10pt;font-family:Arial;color:rgb(0,0,0);">
+        <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);"/>
+       </p>
+      </td>
+      <td valign="top" style="width:96;" colspan="2">
+       <p style="text-align:left;">
+        <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">3 Stellen</span>
+       </p>
+      </td>
+      <td valign="top" style="width:48;">
+       <p>
+        <span/>
+       </p>
+      </td>
+      <td valign="top" style="width:288;" colspan="6">
+       <p style="text-align:left;">
+        <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Position, alphanumerisch linksbündig</span>
+       </p>
+      </td>
+     </tr>
+     <tr>
+      <td valign="top" style="width:48;">
+       <p>
+        <span/>
+       </p>
+      </td>
+      <td valign="top" style="width:96;" colspan="2">
+       <p style="text-align:left;">
+        <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">1 Stelle</span>
+       </p>
+      </td>
+      <td valign="top" style="width:48;">
+       <p>
+        <span/>
+       </p>
+      </td>
+      <td valign="top" style="width:144;" colspan="3">
+       <p style="text-align:left;">
+        <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Positionsindex</span>
+       </p>
+      </td>
+     </tr>
+    </table>
+    <p style="text-align:left;font-size:10pt;font-family:Arial;color:rgb(0,0,0);">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);"/>
+    </p>
+    <p style="text-align:left;font-size:10pt;font-family:Arial;color:rgb(0,0,0);">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);"/>
+    </p>
+    <p style="text-align:left;">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Beispielhaft sind die Positionen aus STLB-Bau entnommen.</span>
+    </p>
+    <p style="text-align:left;font-size:10pt;font-family:Arial;color:rgb(0,0,0);">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);"/>
+    </p>
+    <p style="text-align:left;">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Die Bedarfspositionen werden ohne Gesamtbetrag ausgewiesen und nicht zur Angebotsumme addiert.</span>
+    </p>
+    <p style="text-align:left;font-size:10pt;font-family:Arial;color:rgb(0,0,0);">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);"/>
+    </p>
+    <p style="text-align:left;">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Die Inhalte sind willkürlich.</span>
+    </p>
+   </DetailAddText>
+  </AddText>
+  <BoQ ID="DBIMAAAA">
+   <BoQInfo>
+    <Name>2008-002</Name>
+    <LblBoQ>Muster-LV ohne Hierarchien</LblBoQ>
+    <Date>2009-01-05</Date>
+    <OutlCompl>AllTxt</OutlCompl>
+    <BoQBkdn>
+     <Type>Item</Type>
+     <Length>3</Length>
+     <Num>No</Num>
+     <Alignment>left</Alignment>
+    </BoQBkdn>
+    <BoQBkdn>
+     <Type>Index</Type>
+     <Length>1</Length>
+     <Num>No</Num>
+     <Alignment>left</Alignment>
+    </BoQBkdn>
+    <Totals>
+     <Total>22847.43</Total>
+     <VAT>19.00</VAT>
+     <TotalGross>27188.44</TotalGross>
+    </Totals>
+    <Ctlg>
+     <CtlgID>DBAMABDM</CtlgID>
+     <CtlgType>work category</CtlgType>
+     <CtlgName>Leistungsbereichkatalog</CtlgName>
+    </Ctlg>
+   </BoQInfo>
+   <BoQBody>
+    <Itemlist>
+     <Item ID="DBIMBNMI" RNoPart="A">
+      <Qty>5.000</Qty>
+      <QU>St</QU>
+      <CtlgAssign>
+       <CtlgID>DBAMABDM</CtlgID>
+       <CtlgCode>004</CtlgCode>
+      </CtlgAssign>
+      <UP>20.000</UP>
+      <IT>100.00</IT>
+      <Description>
+       <STLBBau>
+        <STLBBauCtlg>
+         <CtlgName>STLB-Bau</CtlgName>
+         <VersDate>2001-10</VersDate>
+         <WCtg>004</WCtg>
+         <Group>3744</Group>
+        </STLBBauCtlg>
+        <STLBBauID>
+         <ArtChrIdent>13333</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>8</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>9754</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>3382</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>13334</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>4538</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>9621</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>8</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>2136</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>15</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>13335</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>70</ChVIdent>
+        </STLBBauID>
+       </STLBBau>
+       <CompleteText>
+        <DetailTxt>
+         <Text>
+          <p style="text-align:left;">
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Acacia cultriformis (Messerblattakazie,Mimose) C 7,5 </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">100 - 150 liefern.</span>
+           <br/>
+          </p>
+         </Text>
+        </DetailTxt>
+        <OutlineText>
+         <OutlTxt>
+          <TextOutlTxt>
+           <p>
+            <span>Acacia 100 - 150 liefern</span>
+           </p>
+          </TextOutlTxt>
+         </OutlTxt>
+        </OutlineText>
+       </CompleteText>
+      </Description>
+     </Item>
+     <Item ID="DBIMCEGI" RNoPart="B">
+      <Qty>3.000</Qty>
+      <QU>m2</QU>
+      <CtlgAssign>
+       <CtlgID>DBAMABDM</CtlgID>
+       <CtlgCode>006</CtlgCode>
+      </CtlgAssign>
+      <UP>27.810</UP>
+      <IT>83.43</IT>
+      <Description>
+       <STLBBau>
+        <STLBBauCtlg>
+         <CtlgName>STLB-Bau</CtlgName>
+         <VersDate>2001-10</VersDate>
+         <WCtg>006</WCtg>
+         <Group>736</Group>
+        </STLBBauCtlg>
+        <STLBBauID>
+         <ArtChrIdent>3767</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>90</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>5513</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>5</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>3884</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>40</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>5515</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>55</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>5516</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>10</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>4078</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>10</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>5512</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>2</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>3632</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>40</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>2136</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>1</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>5519</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>10</ChVIdent>
+        </STLBBauID>
+       </STLBBau>
+       <CompleteText>
+        <DetailTxt>
+         <Text>
+          <p style="text-align:left;">
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Senkrechter Normverbau DIN 4124 für Graben, Bohlendicke</span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">5 cm, Gurtholzabmessung 16 cm x 16 cm, Sohlbreite </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">zwischen den Bekleidungen über 2,5 bis 3 m, Bodenklasse</span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">3 bis 5 DIN 18300, Verbau herstellen, vorhalten und </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">wieder beseitigen, Verbauhöhe bis 2,5 m, Vorhaltedauer </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">eine Woche.</span>
+           <br/>
+          </p>
+         </Text>
+        </DetailTxt>
+        <OutlineText>
+         <OutlTxt>
+          <TextOutlTxt>
+           <p>
+            <span>Senkrechter Normverbau h bis 2,5m</span>
+           </p>
+          </TextOutlTxt>
+         </OutlTxt>
+        </OutlineText>
+       </CompleteText>
+      </Description>
+     </Item>
+     <Item ID="DBIMCMDI" RNoPart="C">
+      <Qty>200.000</Qty>
+      <QU>m</QU>
+      <CtlgAssign>
+       <CtlgID>DBAMABDM</CtlgID>
+       <CtlgCode>012</CtlgCode>
+      </CtlgAssign>
+      <UP>22.830</UP>
+      <IT>4566.00</IT>
+      <Description>
+       <STLBBau>
+        <STLBBauCtlg>
+         <CtlgName>STLB-Bau</CtlgName>
+         <VersDate>2001-10</VersDate>
+         <WCtg>012</WCtg>
+         <Group>865</Group>
+        </STLBBauCtlg>
+        <STLBBauID>
+         <ArtChrIdent>3650</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>264</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>5901</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>1</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>5902</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>2</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>2163</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>71</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>2136</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>2</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>10910</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>2</ChVIdent>
+        </STLBBauID>
+       </STLBBau>
+       <CompleteText>
+        <DetailTxt>
+         <Text>
+          <p style="text-align:left;">
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Abgasleitung gemäß bauaufsichtlicher Zulassung, aus </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">starren Rohren aus nichtrostendem Stahl, </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Feuerwiderstandsklasse L 90 DIN 4102-6, Formteile </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">werden gesondert vergütet, Durchmesser 80 mm.</span>
+           <br/>
+          </p>
+         </Text>
+        </DetailTxt>
+        <OutlineText>
+         <OutlTxt>
+          <TextOutlTxt>
+           <p>
+            <span>Abgasleitung nichtrost. Stahl 80mm</span>
+           </p>
+          </TextOutlTxt>
+         </OutlTxt>
+        </OutlineText>
+       </CompleteText>
+      </Description>
+     </Item>
+     <Item ID="DBIMDCHI" RNoPart="D">
+      <Provis>WithoutTotal</Provis>
+      <Qty>200.000</Qty>
+      <QU>m2</QU>
+      <CtlgAssign>
+       <CtlgID>DBAMABDM</CtlgID>
+       <CtlgCode>020</CtlgCode>
+      </CtlgAssign>
+      <UP>5.880</UP>
+      <IT>1176.00</IT>
+      <Description>
+       <STLBBau>
+        <STLBBauCtlg>
+         <CtlgName>STLB-Bau</CtlgName>
+         <VersDate>2001-10</VersDate>
+         <WCtg>020</WCtg>
+         <Group>1194</Group>
+        </STLBBauCtlg>
+        <STLBBauID>
+         <ArtChrIdent>2561</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>86</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>4198</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>2</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>4199</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>14</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>4200</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>3</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>2448</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>1</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>2463</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>19</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>2136</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>1</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>8688</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>1</ChVIdent>
+        </STLBBauID>
+       </STLBBau>
+       <CompleteText>
+        <DetailTxt>
+         <Text>
+          <p style="text-align:left;">
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Unterdeckung, unbelüftet, als Bahn aus </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">diffusionsoffener Unterdeckbahn, sd kleiner/gleich </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">0,3 m, auf Schalung, Höhenüberdeckung 100 mm, Nähte und</span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Stöße lose überlappen.</span>
+           <br/>
+          </p>
+         </Text>
+        </DetailTxt>
+        <OutlineText>
+         <OutlTxt>
+          <TextOutlTxt>
+           <p>
+            <span>Unterdeckung Unterdeckbahn, diffusionsoffen</span>
+           </p>
+          </TextOutlTxt>
+         </OutlTxt>
+        </OutlineText>
+       </CompleteText>
+      </Description>
+     </Item>
+     <Item ID="DBIMDJMI" RNoPart="F">
+      <Qty>100.000</Qty>
+      <QU>m2</QU>
+      <CtlgAssign>
+       <CtlgID>DBAMABDM</CtlgID>
+       <CtlgCode>025</CtlgCode>
+      </CtlgAssign>
+      <UP>7.860</UP>
+      <IT>786.00</IT>
+      <Description>
+       <STLBBau>
+        <STLBBauCtlg>
+         <CtlgName>STLB-Bau</CtlgName>
+         <VersDate>2001-10</VersDate>
+         <WCtg>025</WCtg>
+         <Group>287</Group>
+        </STLBBauCtlg>
+        <STLBBauID>
+         <ArtChrIdent>2460</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>181</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>5682</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>4</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>2006</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>12</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>5695</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>1</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>5683</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>5</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>2266</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>4</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>12724</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>4</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>2136</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>1</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>15304</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>2</ChVIdent>
+        </STLBBauID>
+       </STLBBau>
+       <CompleteText>
+        <DetailTxt>
+         <Text>
+          <p style="text-align:left;">
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Trittschalldämmschicht als Unterlage für Estrich auf </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Dämmschicht, aus pflanzlichem Faserdämmstoff DIN 18165-</span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">2, Typ T, Verkehrslast 1,5 kN/m2 DIN 1055-3, </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Steifigkeitsgruppe 30, Dämmschicht bis 1 mm </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">zusammendrückbar, Dämmschichtdicke unter Belastung </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">30 mm.</span>
+           <br/>
+          </p>
+         </Text>
+        </DetailTxt>
+        <OutlineText>
+         <OutlTxt>
+          <TextOutlTxt>
+           <p>
+            <span>Trittschalldämmsch. pfl. Faserdämmst. d 30mm</span>
+           </p>
+          </TextOutlTxt>
+         </OutlTxt>
+        </OutlineText>
+       </CompleteText>
+      </Description>
+     </Item>
+     <Item ID="DBIMEBGI" RNoPart="G">
+      <Qty>500.000</Qty>
+      <QU>m2</QU>
+      <CtlgAssign>
+       <CtlgID>DBAMABDM</CtlgID>
+       <CtlgCode>080</CtlgCode>
+      </CtlgAssign>
+      <UP>13.970</UP>
+      <IT>6985.00</IT>
+      <Description>
+       <STLBBau>
+        <STLBBauCtlg>
+         <CtlgName>STLB-Bau</CtlgName>
+         <VersDate>2001-10</VersDate>
+         <WCtg>080</WCtg>
+         <Group>339</Group>
+        </STLBBauCtlg>
+        <STLBBauID>
+         <ArtChrIdent>2640</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>1</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>2007</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>31</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>2754</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>1</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>1271</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>1</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>572</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>5</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>1276</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>2</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>3132</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>20</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>3131</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>8</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>1269</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>2</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>1227</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>10</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>3182</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>318</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>3201</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>13</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>2136</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>1</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>7643</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>4</ChVIdent>
+        </STLBBauID>
+       </STLBBau>
+       <CompleteText>
+        <DetailTxt>
+         <Text>
+          <p style="text-align:left;">
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Asphalttragdeckschicht in Fahrbahnen, aus Kies-Sand-</span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Gemisch, Körnung 0/16, Bindemittel Straßenbaubitumen </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">70/100 DIN EN 12591, Marshall-Stabilität mind. 4 kN, </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Hohlraumgehalt 1 bis 3 Vol.-% Schichtdicke 8 cm, </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Einbaudicke gemäß TPD-StB durch Messen mit Tiefenlehre,</span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">auf die noch warme Oberfläche 3 kg/m2 Brechsand 0/2 </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">aufstreuen und einwalzen, nicht gebundenen Sand </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">beseitigen.</span>
+           <br/>
+          </p>
+         </Text>
+        </DetailTxt>
+        <OutlineText>
+         <OutlTxt>
+          <TextOutlTxt>
+           <p>
+            <span>Asphalttragdeckschicht 8cm</span>
+           </p>
+          </TextOutlTxt>
+         </OutlTxt>
+        </OutlineText>
+       </CompleteText>
+      </Description>
+     </Item>
+     <Item ID="DBIMEJPI" RNoPart="H">
+      <Qty>500.000</Qty>
+      <QU>m2</QU>
+      <CtlgAssign>
+       <CtlgID>DBAMABDM</CtlgID>
+       <CtlgCode>080</CtlgCode>
+      </CtlgAssign>
+      <UP>13.970</UP>
+      <IT>6985.00</IT>
+      <Description>
+       <STLBBau>
+        <STLBBauCtlg>
+         <CtlgName>STLB-Bau</CtlgName>
+         <VersDate>2001-10</VersDate>
+         <WCtg>080</WCtg>
+         <Group>339</Group>
+        </STLBBauCtlg>
+        <STLBBauID>
+         <ArtChrIdent>2640</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>1</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>2007</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>31</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>2754</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>1</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>1271</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>1</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>572</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>5</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>1276</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>2</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>3132</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>20</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>3131</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>8</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>1269</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>2</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>1227</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>10</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>3182</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>318</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>3201</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>13</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>2136</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>1</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>7643</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>4</ChVIdent>
+        </STLBBauID>
+       </STLBBau>
+       <CompleteText>
+        <DetailTxt>
+         <Text>
+          <p style="text-align:left;">
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Asphalttragdeckschicht in Fahrbahnen, aus Kies-Sand-</span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Gemisch, Körnung 0/16, Bindemittel Straßenbaubitumen </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">70/100 DIN EN 12591, Marshall-Stabilität mind. 4 kN, </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Hohlraumgehalt 1 bis 3 Vol.-% Schichtdicke 8 cm, </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Einbaudicke gemäß TPD-StB durch Messen mit Tiefenlehre,</span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">auf die noch warme Oberfläche 3 kg/m2 Brechsand 0/2 </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">aufstreuen und einwalzen, nicht gebundenen Sand </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">beseitigen.</span>
+           <br/>
+          </p>
+         </Text>
+        </DetailTxt>
+        <OutlineText>
+         <OutlTxt>
+          <TextOutlTxt>
+           <p>
+            <span>Asphalttragdeckschicht 8cm</span>
+           </p>
+          </TextOutlTxt>
+         </OutlTxt>
+        </OutlineText>
+       </CompleteText>
+      </Description>
+     </Item>
+     <Item ID="DBIMFCCI" RNoPart="H10">
+      <Qty>100.000</Qty>
+      <QU>m2</QU>
+      <CtlgAssign>
+       <CtlgID>DBAMABDM</CtlgID>
+       <CtlgCode>020</CtlgCode>
+      </CtlgAssign>
+      <UP>23.370</UP>
+      <IT>2337.00</IT>
+      <Description>
+       <STLBBau>
+        <STLBBauCtlg>
+         <CtlgName>STLB-Bau</CtlgName>
+         <VersDate>2001-10</VersDate>
+         <WCtg>020</WCtg>
+         <Group>3418</Group>
+        </STLBBauCtlg>
+        <STLBBauID>
+         <ArtChrIdent>2411</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>1</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>2444</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>53</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>2735</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>190</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>2806</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>40</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>229</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>6</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>3054</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>10</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>6354</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>1</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>9631</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>2</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>2136</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>1</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>10164</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>1</ChVIdent>
+        </STLBBauID>
+       </STLBBau>
+       <CompleteText>
+        <DetailTxt>
+         <Text>
+          <p style="text-align:left;">
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Dachdeckung mit Trapezprofilen aus Stahl, Dicke 0,5 mm,</span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">mit Schrauben aus nichtrostendem Stahl sichtbar auf </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Holz befestigen, Dachneigung über 45 bis 60 Grad.</span>
+           <br/>
+          </p>
+         </Text>
+        </DetailTxt>
+        <OutlineText>
+         <OutlTxt>
+          <TextOutlTxt>
+           <p>
+            <span>Dachdeckung Stahltrapezprofil D 0,5mm</span>
+           </p>
+          </TextOutlTxt>
+         </OutlTxt>
+        </OutlineText>
+       </CompleteText>
+      </Description>
+     </Item>
+     <Item ID="DBIMFJGA" RNoPart="H10" RNoIndex="1">
+      <Provis>WithoutTotal</Provis>
+      <Qty>1.000</Qty>
+      <QU>St</QU>
+      <CtlgAssign>
+       <CtlgID>DBAMABDM</CtlgID>
+       <CtlgCode>014</CtlgCode>
+      </CtlgAssign>
+      <UP>36.850</UP>
+      <IT>36.85</IT>
+      <Description>
+       <STLBBau>
+        <STLBBauCtlg>
+         <CtlgName>STLB-Bau</CtlgName>
+         <VersDate>2001-10</VersDate>
+         <WCtg>014</WCtg>
+         <Group>146</Group>
+        </STLBBauCtlg>
+        <STLBBauID>
+         <ArtChrIdent>611</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>1</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>780</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>42</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>1444</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>2</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>3503</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>10</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>3504</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>60</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>614</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>1</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>3505</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>10</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>3506</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>10</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>51</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>110</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>77</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>4</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>3507</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>10</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>2136</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>15</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>10164</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>1</ChVIdent>
+        </STLBBauID>
+       </STLBBau>
+       <CompleteText>
+        <DetailTxt>
+         <Text>
+          <p style="text-align:left;">
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Fensterbank, innen, aus Naturwerkstein gleichmäßig </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">dick, einteilig, vordere Kantenfläche voll und zwei </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Seitenflächen teilweise sichtbar, in Mörtelbett </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">verlegen und verfugen, Länge 1 m, Breite 20 cm, Dicke </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">2 cm, Gesteinsart Granit, Oberfläche feingeschliffen.</span>
+           <br/>
+          </p>
+         </Text>
+        </DetailTxt>
+        <OutlineText>
+         <OutlTxt>
+          <TextOutlTxt>
+           <p>
+            <span>Innenfensterbank Naturwerkstein b 20cm d 2cm Granit</span>
+           </p>
+          </TextOutlTxt>
+         </OutlTxt>
+        </OutlineText>
+       </CompleteText>
+      </Description>
+     </Item>
+     <Item ID="DBIMGBHI" RNoPart="J">
+      <Qty>100.000</Qty>
+      <QU>m2</QU>
+      <CtlgAssign>
+       <CtlgID>DBAMABDM</CtlgID>
+       <CtlgCode>025</CtlgCode>
+      </CtlgAssign>
+      <UP>10.050</UP>
+      <IT>1005.00</IT>
+      <Description>
+       <STLBBau>
+        <STLBBauCtlg>
+         <CtlgName>STLB-Bau</CtlgName>
+         <VersDate>2001-10</VersDate>
+         <WCtg>025</WCtg>
+         <Group>274</Group>
+        </STLBBauCtlg>
+        <STLBBauID>
+         <ArtChrIdent>2595</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>41</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>2006</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>12</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>287</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>1</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>2588</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>5</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>3060</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>5</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>2586</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>1</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>3061</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>10</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>2939</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>5</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>3450</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>440</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>2136</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>1</ChVIdent>
+        </STLBBauID>
+        <STLBBauID>
+         <ArtChrIdent>10164</ArtChrIdent>
+         <ArtChIdx>0</ArtChIdx>
+         <ChVIdent>1</ChVIdent>
+        </STLBBauID>
+       </STLBBau>
+       <CompleteText>
+        <DetailTxt>
+         <Text>
+          <p style="text-align:left;">
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Zementestrich DIN 18560, als Estrich auf Dämmschicht, </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Verkehrslast 1,5 kN/m2 DIN 1055-3, Festigkeitsklasse </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">ZE 20, Estrichnenndicke 40 mm, zur Aufnahme von </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">elastischen/textilen Belägen, Oberfläche von Hand </span>
+           <br/>
+           <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">glätten.</span>
+           <br/>
+          </p>
+         </Text>
+        </DetailTxt>
+        <OutlineText>
+         <OutlTxt>
+          <TextOutlTxt>
+           <p>
+            <span>Zementestrich ZE 20 d 40mm</span>
+           </p>
+          </TextOutlTxt>
+         </OutlTxt>
+        </OutlineText>
+       </CompleteText>
+      </Description>
+     </Item>
+    </Itemlist>
+   </BoQBody>
+  </BoQ>
+ </Award>
+</GAEB>

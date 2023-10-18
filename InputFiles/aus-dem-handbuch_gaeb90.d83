@@ -1,0 +1,334 @@
+00        83L                                                 1122PPPP090 000001
+01Leistungsverzeichnis                                                    000002
+02                                                                        000003
+03                                                                        000004
+08DM    Deutsche Mark                                                     000005
+1101       N                                                              000006
+12Beispiele aus unterschiedlichen Gewerken                                000007
+110101     N                                                              000008
+12Erdarbeiten                                                             000009
+20                                                                        000010
+26   StÑmme und GeÑst bis 5 cm Durchmesser sind vor dem                   000011
+26   Verladen und Abtransport zu hÑchseln.                                000012
+26   StÑmme und GeÑst ab 5 cm Durchmesser sind vor dem                    000013
+26   Verladen und Abtransport in ca. 1m-StÅcke zu                         000014
+26   zerkleinern und zu bÅndeln.                                          000015
+2101010001 NNN         00000001000psch     19300201123000202              000016
+25                                                                        000017
+26   BaugelÑnde abrÑumen gemÑ· beiliegendem Lageplan,                     000018
+26   in TeilflÑchen,                                                      000019
+26   von Aufwuchs mit StÑmmen bis 10 cm Durchmesser,                      000020
+26   das abgerÑumte Material getrennt nach Stoffen laden.                 000021
+26   Abfuhr und Entsorgung werden gesondert vergÅtet.                     000022
+2101010002 NNN         00000015000m2                                      000023
+79STLB-Bau  VJ 1999 VM 04 LB 080 TLG 355                                  000024
+79STLB-Bau  BM 3371 BMI 0 AP 10                                           000025
+79STLB-Bau  BM 1179 BMI 0 AP 10                                           000026
+79STLB-Bau  BM 2754 BMI 0 AP 5                                            000027
+79STLB-Bau  BM 2621 BMI 0 AP 5                                            000028
+79STLB-Bau  BM 2620 BMI 0 AP 10                                           000029
+79STLB-Bau  BM 58 BMI 0 AP 8                                              000030
+79STLB-Bau  BM 7691 BMI 0 AP 1                                            000031
+79STLB-Bau  BM 2922 BMI 0 AP 10                                           000032
+79STLB-Bau  BM 6080 BMI 0 AP 7                                            000033
+79STLB-Bau  BM 6081 BMI 0 AP 5                                            000034
+79STLB-Bau  BM 3227 BMI 0 AP 60                                           000035
+79STLB-Bau  BM 2136 BMI 0 AP 1                                            000036
+25                                                                        000037
+26   Plattenbelag aufnehmen, in Geh- und Radwegen, verlegtin              000038
+26    Sand, einschl. Bettung, Dicke 5 cm, GehwegplattenDIN 4              000039
+26   85 - 30 x 30 x 4, FugenfÅllung aus Sand, Plattenzur Wie              000040
+26   derverwendung sÑubern und nach besondererAnordnung des               000041
+26   AG innerhalb der Baustelle lagern, nichtmehr verwendbar              000042
+26   e Stoffe in vom AG gestellten BehÑltersammeln.                       000043
+2101010003 NNN         00000150000m2                                      000044
+79STLB-Bau  VJ 1999 VM 04 LB 002 TLG 526                                  000045
+79STLB-Bau  BM 3628 BMI 0 AP 20                                           000046
+79STLB-Bau  BM 3629 BMI 0 AP 20                                           000047
+79STLB-Bau  BM 3632 BMI 0 AP 20                                           000048
+79STLB-Bau  BM 5650 BMI 0 AP 1                                            000049
+79STLB-Bau  BM 5651 BMI 0 AP 2                                            000050
+79STLB-Bau  BM 3630 BMI 0 AP 20                                           000051
+79STLB-Bau  BM 3631 BMI 0 AP 20                                           000052
+79STLB-Bau  BM 2136 BMI 0 AP 1                                            000053
+25                                                                        000054
+26   Oberboden DIN 18300 abtragen, seitlich lagern undspÑter              000055
+26    auftragen, von BîschungsflÑchen, Abtragdicke imMittel               000056
+26   20 cm, AuftragflÑche geneigt. Auftragdicke imMittel 20               000057
+26   cm. Mengenermittlung nach Aufma· an derEntnahmestelle.               000058
+2101010004 NNN         00000003000m                                       000059
+79STLB-Bau  VJ 1999 VM 04 LB 002 TLG 536                                  000060
+79STLB-Bau  BM 3632 BMI 0 AP 270                                          000061
+79STLB-Bau  BM 3696 BMI 0 AP 20                                           000062
+79STLB-Bau  BM 3827 BMI 0 AP 20                                           000063
+79STLB-Bau  BM 3701 BMI 0 AP 1                                            000064
+79STLB-Bau  BM 2342 BMI 0 AP 3                                            000065
+79STLB-Bau  BM 3697 BMI 0 AP 10                                           000066
+79STLB-Bau  BM 3767 BMI 0 AP 25                                           000067
+79STLB-Bau  BM 3702 BMI 0 AP 30                                           000068
+79STLB-Bau  BM 3631 BMI 0 AP 20                                           000069
+79STLB-Bau  BM 2136 BMI 0 AP 2                                            000070
+25                                                                        000071
+26   Boden fÅr Suchgraben, zur Freilegung von Kabeln, nachAb              000072
+26   trag des Oberbodens, profilgerecht lîsen, au·erhalbder               000073
+26   Baugrube lagern,Aushubtiefe bis 0,8 m,Sohlenbreite Åber              000074
+26    0,5 bis 0,6 m, Mengenermittlung nachAufma· an der Entn              000075
+26   ahmestelle.Bodenklasse 4                                             000076
+2101010005 NNN         00000007000m3     XX19300221151521002              000077
+25                                                                        000078
+26   HinterfÅllen                                                         000079
+26   von ArbeitsrÑumen,                                                   000080
+26   profilgerecht,                                                       000081
+26   mit vom AN zu liefernden Stoffen,                                    000082
+2631AStoff'Kies-Sand-Gemisch 0/32'                                        000083
+26   oder gleichwertiger Art,                                             000084
+2632BStoff'',                                                             000085
+26   verdichten.                                                          000086
+26   Einbauhîhe bis 0,80 m.                                               000087
+2101010006 NNN         00000040650m3     X 19300214102028301              000088
+25                                                                        000089
+26   Boden fÅr Streifenfundamente                                         000090
+26   profilgerecht lîsen und seitlich lagern,                             000091
+26   Aushub nach Abtrag des Oberbodens,                                   000092
+26   Breite der Fundamentsohle Åber 0,5 bis 1,0 m,                        000093
+2641AAushubtiefe in m'1,00',                                              000094
+26   Bodenklasse 4.                                                       000095
+2101010007 NEN         00000002000t                                       000096
+79STLB-Bau  VJ 1999 VM 04 LB 002 TLG 533                                  000097
+79STLB-Bau  BM 3853 BMI 0 AP 7                                            000098
+79STLB-Bau  BM 3854 BMI 0 AP 70                                           000099
+79STLB-Bau  BM 3265 BMI 0 AP 110                                          000100
+79STLB-Bau  BM 2136 BMI 0 AP 5                                            000101
+25                                                                        000102
+26   Hindernis im Boden aus Einzelnatursteinen, aufnehmen,la              000103
+26   den, zur Lagerstelle des AG fîrdern und abladenFîrderwe              000104
+26   g bis 500 m.                                                         000105
+2101010008 NNN      B  00000010000m3                                      000106
+79STLB-Bau  VJ 1999 VM 04 LB 002 TLG 539                                  000107
+79STLB-Bau  BM 3632 BMI 0 AP 290                                          000108
+79STLB-Bau  BM 3696 BMI 0 AP 10                                           000109
+79STLB-Bau  BM 3697 BMI 0 AP 40                                           000110
+79STLB-Bau  BM 2342 BMI 0 AP 3                                            000111
+79STLB-Bau  BM 3698 BMI 0 AP 100                                          000112
+79STLB-Bau  BM 3702 BMI 0 AP 20                                           000113
+79STLB-Bau  BM 3941 BMI 0 AP 4                                            000114
+79STLB-Bau  BM 3701 BMI 0 AP 1                                            000115
+79STLB-Bau  BM 2136 BMI 0 AP 3                                            000116
+25                                                                        000117
+26   Boden der Baugrube fÅr SchÑchte, ab GelÑndeoberflÑche,p              000118
+26   rofilgerecht lîsen und seitlich lagern, Verbau wirdgeso              000119
+26   ndert vergÅtet, Aushubtiefe bis 2,5 m,AushubgrundflÑche              000120
+26    Åber 3 bis 4 m2, Bodenklasse 4.                                     000121
+2101010009 NNN      W  00000008000m3                                      000122
+28                                                       01010008         000123
+79STLB-Bau  VJ 1999 VM 04 LB 002 TLG 539                                  000124
+79STLB-Bau  BM 3697 BMI 0 AP 30                                           000125
+25                                                                        000126
+26   Aushubtiefe bis 1,75 m                                               000127
+2101010010 NNN      W  00000007000m3                                      000128
+28                                                       01010008         000129
+79STLB-Bau  VJ 1999 VM 04 LB 002 TLG 539                                  000130
+79STLB-Bau  BM 3697 BMI 0 AP 20                                           000131
+25                                                                        000132
+26   Aushubtiefe bis 1,25 m                                               000133
+310101                                                                    000134
+110102     N                                                              000135
+12SchÑchte                                                                000136
+2101020001 GNN001   B  00000001000St       19500940005110223              000137
+25                                                                        000138
+26   Schacht, rund, lichte Weite 1000 mm,                                 000139
+26   aus Betonfertigteilen DIN 4034-1, mit Schachtunterteil,              000140
+26   Schachtringe, Schachthals, Auflagering,                              000141
+26   AnschlÅsse fÅr gelenkige Einbindung der Rohre                        000142
+26   mit Muffe,                                                           000143
+26   Fugendichtung mit Dichtring aus Elastomeren DIN 4060,                000144
+26   Gerinne gerade, Auskleidung Gerinne und Auftritt                     000145
+26   mit Kanalklinkern DIN 4051,                                          000146
+26   grî·tes Rohr DN 250,                                                 000147
+26   lichte Schachttiefe Åber 2 bis 2,5 m.                                000148
+2101020002 GNN001   W  00000001000St       19500940005110222              000149
+28                                                       01020001         000150
+25                                                                        000151
+26   lichte Schachttiefe bis 2 m.                                         000152
+2101020003 GNN001   W  00000001000St       19500940005110221              000153
+28                                                       01020001         000154
+25                                                                        000155
+26   lichte Schachttiefe bis 1,5 m.                                       000156
+2101020004 GNN001      00000025000St       19500969111020003              000157
+25                                                                        000158
+26   Steigeisen DIN 1211                                                  000159
+26   aus Gu·eisen,                                                        000160
+26   Steigma· 250 mm,                                                     000161
+26   Form E zum Einbauen in Betonfertigteile,                             000162
+26   Einbau einschl. Befestigungsarbeiten und -mittel.                    000163
+2101020005 ANN0011  B  00000001000St     X 19500940031111223              000164
+25                                                                        000165
+26   Schacht, rund, lichte Weite 1000 mm,                                 000166
+26   Schachtunterteil aus Ortbeton,                                       000167
+26   Bodenplatte aus Beton B 25 WU, mind. 20 cm dick,                     000168
+2621AWand aus Beton B 25 WU, Dicke in cm'20',                             000169
+26   Hîhe Unterteil mind. 25 cm Åber Rohrscheitel,                        000170
+2622AHîhe des Auftritts'10 cm',                                           000171
+26   Schachtoberteil aus Betonfertigteilen DIN 4034-1,                    000172
+26   gleiche Lichtweite wie Unterteil,                                    000173
+26   Schachtringe, Schachthals, Auflagering,                              000174
+26   AnschlÅsse fÅr gelenkige Einbindung der Rohre                        000175
+26   mit Muffe,                                                           000176
+26   Fugendichtung mit Dichtring aus Elastomeren DIN 4060,                000177
+2641ASteigeinrichtung, AusfÅhrung'DIN 1211, aus Gu·eisen,                 000178
+2641ASteigma· 250 mm, Form E zum Einbauen in Betonfertig-                 000179
+2641Ateilen, Einbau einschl. Befestigungsarbeiten und                     000180
+2641A-mittel',                                                            000181
+26   Gerinne gerade, Auskleidung Gerinne und Auftritt                     000182
+26   mit Kanalklinkern DIN 4051,                                          000183
+26   grî·tes Rohr DN 250,                                                 000184
+26   lichte Schachttiefe Åber 2 bis 2,5 m.                                000185
+2101020006 ANN0011  W  00000001000St       19500940031111222              000186
+28                                                       01020005         000187
+25                                                                        000188
+26   lichte Schachttiefe bis 2 m.                                         000189
+2101020007 ANN0011  W  00000001000St       19500940031111221              000190
+28                                                       01020005         000191
+25                                                                        000192
+26   lichte Schachttiefe bis 1,5 m.                                       000193
+2101020008 ANN0012     00000003000St     X 19500942502000242              000194
+25                                                                        000195
+26   Schachtunterteil DIN 19549, rund,                                    000196
+26   lichte Weite 1000 mm,                                                000197
+26   als Betonfertigteil DIN 4034-1,                                      000198
+26   Wand aus Stahlbeton B 25 WU, 20 cm dick,                             000199
+26   Gerinne gerade, Auskleidung Gerinne und Auftritt mit                 000200
+26   Kanalklinkern DIN 4051,                                              000201
+2651AAuftritt'10 cm hoch',                                                000202
+26   grî·tes Rohr DN 250.                                                 000203
+2101020009 ANN0012     00000010000St       19500949401220001              000204
+25                                                                        000205
+26   Schachtring                                                          000206
+26   SR-M DIN 4034-1,                                                     000207
+26   Durchmesser 1000 mm,                                                 000208
+26   Bauhîhe 500 mm.                                                      000209
+2101020010 ANN0012     00000003000St       19500949801210001              000210
+25                                                                        000211
+26   Schachthals                                                          000212
+26   SH-M DIN 4034-1,                                                     000213
+26   Durchmesser 1000 mm/625 mm,                                          000214
+26   Bauhîhe 600 mm,                                                      000215
+2101020011 ANN0012     00000003000St       19500950112010001              000216
+25                                                                        000217
+26   Auflagering                                                          000218
+26   AR-V DIN 4034-1,                                                     000219
+26   Bauhîhe 80 mm,                                                       000220
+26   Fugendichtung mit Dichtring aus Elastomeren DIN 4060,                000221
+2101020012 ANN0012     00000025000St       19500969111020003              000222
+25                                                                        000223
+26   Steigeisen DIN 1211                                                  000224
+26   aus Gu·eisen,                                                        000225
+26   Steigma· 250 mm,                                                     000226
+26   Form E zum Einbauen in Betonfertigteile,                             000227
+26   Einbau einschl. Befestigungsarbeiten und -mittel.                    000228
+310102                                                                    000229
+110103     N                                                              000230
+12Trockenbauarbeiten                                                      000231
+2101030001 NNL         00002500000m2     X 19703901321110104              000232
+25                                                                        000233
+26   Nichttragende innere Trennwand DIN 4103-1                            000234
+26   Als Montagewand, Einbaubereich 1,                                    000235
+26   Hîhe bis 3,5 m,                                                      000236
+26   Dicke 100 mm,                                                        000237
+2622Abewertetes SchalldÑmma· DIN 4109 RW,R in dB'45',                     000238
+26   Feuerwiderstandsklasse DIN 4102-2 F 30                               000239
+26   -A,                                                                  000240
+26   umlaufende AnschlÅsse starr.                                         000241
+26   AusfÅhrung wie folgt:                                                000242
+2401                  1970391550301                                       000243
+25                                                                        000244
+26   Unterkonstruktion                                                    000245
+26   aus verzinkten Stahlblechprofilen DIN 18182-1/                       000246
+26   DIN 18183,                                                           000247
+26   als EinfachstÑnderwerk.                                              000248
+2402                X 19703915630210131                                   000249
+25                                                                        000250
+26   DÑmmschicht                                                          000251
+26   aus mineralischem FaserdÑmmstoff DIN 18165-1                         000252
+26   in Platten,                                                          000253
+26   einlagig, dicht sto·en,                                              000254
+26   abrutschsicher verlegen,                                             000255
+26   lÑngenspezifischer Strîmungswiderstand grî·er                        000256
+26   5 kN x s/m4,                                                         000257
+2651AMindestrohdichte in kg/m3'40'                                        000258
+26   Schmelzpunkt mind. 1000 K,                                           000259
+2652ADicke in mm'40'.                                                     000260
+2403                  19703916520030111                                   000261
+25                                                                        000262
+26   Beplankung, beidseitig,                                              000263
+26   Verarbeitung DIN 18181, einlagig,                                    000264
+26   aus Gipskarton-Feuerschutzplatten GKF DIN 18180,                     000265
+26   Plattendicke 12,5 mm,                                                000266
+26   Befestigen mit Schnellbauschrauben DIN 18182-2.                      000267
+26   Fugen fÅllen, sichtbare Befestigungsmittel und Fugen                 000268
+26   spachteln.                                                           000269
+310103                                                                    000270
+110104     N                                                              000271
+12Maler und Lackierarbeiten                                               000272
+410001Erneuerungsbeschichtungen der Garteneinrichtungen                   000273
+42  1960345220204                                                         000274
+25                                                                        000275
+26   Erneuerungsbeschichtung                                              000276
+26   im Au·enbereich.                                                     000277
+26   Allseitig.                                                           000278
+42X 19603460801400011                                                     000279
+25                                                                        000280
+26   Beschichtung aus Einkomponentenlack                                  000281
+2623ABeschaffenheit'stark abblÑtternd',                                   000282
+26   bis zur tragfÑhigen Schicht entfernen                                000283
+26   Anfallende Stoffe getrennt in vom AG gestellten                      000284
+26   BehÑltern sammeln.                                                   000285
+42  19603467007000001                                                     000286
+25                                                                        000287
+26   Fleckspachteln                                                       000288
+26   Mit Kunstharzspachtelmasse,                                          000289
+42  19603472001131001                                                     000290
+25                                                                        000291
+26   Grundbeschichtung auf Untergrund aus Holz                            000292
+26   mit Alkydharzlackfarbe,                                              000293
+26   wasserverdÅnnbar,                                                    000294
+26   mit fungizidem und insektizidem Zusatzstoff,                         000295
+26   absperren gegen verfÑrbende Inhaltsstoffe,                           000296
+42  19603472201100001                                                     000297
+25                                                                        000298
+26   Eine Zwischenbeschichtung fÅr Untergrund aus Holz                    000299
+26   mit Alkydharzlackfarbe,                                              000300
+26   wasserverdÅnnbar,                                                    000301
+42  19603473201120421                                                     000302
+25                                                                        000303
+26   Schlu·beschichtung fÅr Untergrund aus Holz                           000304
+26   mit Alkydharzlackfarbe,                                              000305
+26   wasserverdÅnnbar,                                                    000306
+26   glÑnzend,                                                            000307
+26   mittelgetînt.                                                        000308
+26   Farbton nach Muster des AG.                                          000309
+2101040001 NNN      A  00000002000St     X 19700344110140001              000310
+28                                                                0001    000311
+25                                                                        000312
+26   Gartentisch                                                          000313
+2621Aaus Holz, Art'Kiefernholz',                                          000314
+2631AMa·e in cm'80 x 100, 80 cm hoch',                                    000315
+26   mit Bodenklammern,                                                   000316
+2101040002 NNN      A  00000008000St     X 19700344380540071              000317
+28                                                                0001    000318
+25                                                                        000319
+26   Gartenbank                                                           000320
+2621Aaus'Holzlattenprofilen 70 x 20 mm Querschnitt',                      000321
+2631Amit RÅckenlehne, Ma·e in cm'LÑnge 160',                              000322
+26   mit Bodenklammern,                                                   000323
+2651A'in Beton dauerhaft befestigt'.                                      000324
+2101040003 NNN      A  00000015000St     X 19700344710100071              000325
+28                                                                0001    000326
+25                                                                        000327
+26   Sitzrost                                                             000328
+2621Aaus Holz, Art'Kieferholz',                                           000329
+2631AMa·e in cm'45 x 120',                                                000330
+2651A'an Betonsockel mit DÅbel befestigt'.                                000331
+310104                                                                    000332
+3101                                                                      000333
+99                                                                   00026000334

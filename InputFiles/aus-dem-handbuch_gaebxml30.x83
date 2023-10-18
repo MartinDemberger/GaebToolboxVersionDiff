@@ -1,0 +1,1750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- GXML Toolbox V3.1 R20080128;  http://www.gaeb-toolbox.de/ -->
+<GAEB xmlns="http://www.gaeb.de/GAEB_DA_XML/200407">
+ <GAEBInfo>
+  <Version>3.0</Version>
+  <VersDate>2004-08</VersDate>
+  <Date>2008-02-15</Date>
+  <Time>12:35:42</Time>
+  <ProgSystem>/ GXML Toolbox V3.1 R20080128</ProgSystem>
+  <ProgName>GAEB_Inspector</ProgName>
+ </GAEBInfo>
+ <PrjInfo>
+  <NamePrj>GAEBAG13</NamePrj>
+  <Cur>DM</Cur>
+  <CurLbl>Deutsche Mark</CurLbl>
+ </PrjInfo>
+ <Award>
+  <DP>83</DP>
+  <AwardInfo>
+   <Cur>DM</Cur>
+   <CurLbl>Deutsche Mark</CurLbl>
+  </AwardInfo>
+  <BoQ ID="id69">
+   <BoQInfo>
+    <Name>Aufbau</Name>
+    <LblBoQ>Leistungsverzeichnis</LblBoQ>
+    <OutlCompl>DetailTxt</OutlCompl>
+    <BoQBkdn>
+     <Type>BoQLevel</Type>
+     <LblBoQBkdn>Titel</LblBoQBkdn>
+     <Length>2</Length>
+     <Num>No</Num>
+     <Alignment>right</Alignment>
+    </BoQBkdn>
+    <BoQBkdn>
+     <Type>BoQLevel</Type>
+     <LblBoQBkdn>Titel</LblBoQBkdn>
+     <Length>2</Length>
+     <Num>No</Num>
+     <Alignment>right</Alignment>
+    </BoQBkdn>
+    <BoQBkdn>
+     <Type>Item</Type>
+     <LblBoQBkdn>Position</LblBoQBkdn>
+     <Length>4</Length>
+     <Num>No</Num>
+     <Alignment>right</Alignment>
+    </BoQBkdn>
+    <NoUPComps>0</NoUPComps>
+   </BoQInfo>
+   <BoQBody>
+    <BoQCtgy RNoPart="01" ID="id70">
+     <LblTx>
+      <p>
+       <span>Beispiele aus unterschiedlichen Gewerken</span>
+      </p>
+     </LblTx>
+     <BoQBody>
+      <BoQCtgy RNoPart="01" ID="id71">
+       <LblTx>
+        <p>
+         <span>Erdarbeiten</span>
+        </p>
+       </LblTx>
+       <BoQBody>
+        <Itemlist>
+         <Remark ID="id72">
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Stämme und Geäst bis 5 cm Durchmesser sind vor dem</span>
+              </p>
+              <p>
+               <span>Verladen und Abtransport zu hächseln.</span>
+              </p>
+              <p>
+               <span>Stämme und Geäst ab 5 cm Durchmesser sind vor dem</span>
+              </p>
+              <p>
+               <span>Verladen und Abtransport in ca. 1m-Stücke zu</span>
+              </p>
+              <p>
+               <span>zerkleinern und zu bündeln.</span>
+              </p>
+             </Text>
+            </DetailTxt>
+           </CompleteText>
+          </Description>
+         </Remark>
+         <Item RNoPart="0001" ID="id73">
+          <Qty>1.000</Qty>
+          <QU>psch</QU>
+          <Description>
+           <StLNo>9300201123000202</StLNo>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Baugelände abräumen gemäß beiliegendem Lageplan,</span>
+              </p>
+              <p>
+               <span>in Teilflächen,</span>
+              </p>
+              <p>
+               <span>von Aufwuchs mit Stämmen bis 10 cm Durchmesser,</span>
+              </p>
+              <p>
+               <span>das abgeräumte Material getrennt nach Stoffen laden.</span>
+              </p>
+              <p>
+               <span>Abfuhr und Entsorgung werden gesondert vergütet.</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item RNoPart="0002" ID="id74">
+          <Qty>15.000</Qty>
+          <QU>m2</QU>
+          <Description>
+           <STLBBau>
+            <STLBBauCtlg>
+             <CtlgName>STLB-Bau</CtlgName>
+             <VersDate>1999-04</VersDate>
+             <WCtg>080</WCtg>
+             <Group>355</Group>
+            </STLBBauCtlg>
+            <STLBBauID>
+             <ArtChrIdent>3371</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>10</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>1179</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>10</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>2754</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>5</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>2621</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>5</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>2620</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>10</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>58</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>8</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>7691</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>1</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>2922</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>10</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>6080</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>7</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>6081</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>5</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>3227</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>60</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>2136</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>1</ChVIdent>
+            </STLBBauID>
+           </STLBBau>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Plattenbelag aufnehmen, in Geh- und Radwegen, verlegtin Sand, einschl. Bettung, Dicke 5 cm, GehwegplattenDIN 485 - 30 x 30 x 4, Fugenfüllung aus Sand, Plattenzur Wiederverwendung säubern und nach besondererAnordnung des AG innerhalb der Baustelle lagern, nichtmehr verwendbare Stoffe in vom AG gestellten Behältersammeln.</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item RNoPart="0003" ID="id75">
+          <Qty>150.000</Qty>
+          <QU>m2</QU>
+          <Description>
+           <STLBBau>
+            <STLBBauCtlg>
+             <CtlgName>STLB-Bau</CtlgName>
+             <VersDate>1999-04</VersDate>
+             <WCtg>002</WCtg>
+             <Group>526</Group>
+            </STLBBauCtlg>
+            <STLBBauID>
+             <ArtChrIdent>3628</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>20</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>3629</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>20</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>3632</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>20</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>5650</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>1</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>5651</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>2</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>3630</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>20</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>3631</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>20</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>2136</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>1</ChVIdent>
+            </STLBBauID>
+           </STLBBau>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Oberboden DIN 18300 abtragen, seitlich lagern undspäter auftragen, von Böschungsflächen, Abtragdicke imMittel 20 cm, Auftragfläche geneigt. Auftragdicke imMittel 20 cm. Mengenermittlung nach Aufmaß an derEntnahmestelle.</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item RNoPart="0004" ID="id76">
+          <Qty>3.000</Qty>
+          <QU>m</QU>
+          <Description>
+           <STLBBau>
+            <STLBBauCtlg>
+             <CtlgName>STLB-Bau</CtlgName>
+             <VersDate>1999-04</VersDate>
+             <WCtg>002</WCtg>
+             <Group>536</Group>
+            </STLBBauCtlg>
+            <STLBBauID>
+             <ArtChrIdent>3632</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>270</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>3696</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>20</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>3827</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>20</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>3701</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>1</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>2342</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>3</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>3697</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>10</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>3767</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>25</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>3702</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>30</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>3631</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>20</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>2136</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>2</ChVIdent>
+            </STLBBauID>
+           </STLBBau>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Boden für Suchgraben, zur Freilegung von Kabeln, nachAbtrag des Oberbodens, profilgerecht lösen, außerhalbder Baugrube lagern,Aushubtiefe bis 0,8 m,Sohlenbreite über 0,5 bis 0,6 m, Mengenermittlung nachAufmaß an der Entnahmestelle.Bodenklasse 4</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item RNoPart="0005" ID="id77">
+          <Qty>7.000</Qty>
+          <QU>m3</QU>
+          <Description>
+           <StLNo>9300221151521002</StLNo>
+           <CompleteText>
+            <ComplTSA>Yes</ComplTSA>
+            <ComplTSB>Yes</ComplTSB>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Hinterfüllen</span>
+              </p>
+              <p>
+               <span>von Arbeitsräumen,</span>
+              </p>
+              <p>
+               <span>profilgerecht,</span>
+              </p>
+              <p>
+               <span>mit vom AN zu liefernden Stoffen,</span>
+              </p>
+              <span/>
+             </Text>
+             <TextComplement Kind="Owner" MarkLbl="31">
+              <ComplCaption>Stoff</ComplCaption>
+              <ComplBody>Kies-Sand-Gemisch 0/32</ComplBody>
+              <ComplTail/>
+             </TextComplement>
+             <Text>
+              <p>
+               <span>oder gleichwertiger Art,</span>
+              </p>
+              <span/>
+             </Text>
+             <TextComplement Kind="Bidder" MarkLbl="32">
+              <ComplCaption>Stoff</ComplCaption>
+              <ComplBody/>
+              <ComplTail>,</ComplTail>
+             </TextComplement>
+             <Text>
+              <p>
+               <span>verdichten.</span>
+              </p>
+              <p>
+               <span>Einbauhöhe bis 0,80 m.</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item RNoPart="0006" ID="id78">
+          <Qty>40.650</Qty>
+          <QU>m3</QU>
+          <Description>
+           <StLNo>9300214102028301</StLNo>
+           <CompleteText>
+            <ComplTSA>Yes</ComplTSA>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Boden für Streifenfundamente</span>
+              </p>
+              <p>
+               <span>profilgerecht lösen und seitlich lagern,</span>
+              </p>
+              <p>
+               <span>Aushub nach Abtrag des Oberbodens,</span>
+              </p>
+              <p>
+               <span>Breite der Fundamentsohle über 0,5 bis 1,0 m,</span>
+              </p>
+              <span/>
+             </Text>
+             <TextComplement Kind="Owner" MarkLbl="41">
+              <ComplCaption>Aushubtiefe in m</ComplCaption>
+              <ComplBody>1,00</ComplBody>
+              <ComplTail>,</ComplTail>
+             </TextComplement>
+             <Text>
+              <p>
+               <span>Bodenklasse 4.</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item RNoPart="0007" ID="id79">
+          <Provis>WithoutTotal</Provis>
+          <Qty>2.000</Qty>
+          <QU>t</QU>
+          <Description>
+           <STLBBau>
+            <STLBBauCtlg>
+             <CtlgName>STLB-Bau</CtlgName>
+             <VersDate>1999-04</VersDate>
+             <WCtg>002</WCtg>
+             <Group>533</Group>
+            </STLBBauCtlg>
+            <STLBBauID>
+             <ArtChrIdent>3853</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>7</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>3854</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>70</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>3265</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>110</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>2136</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>5</ChVIdent>
+            </STLBBauID>
+           </STLBBau>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Hindernis im Boden aus Einzelnatursteinen, aufnehmen,laden, zur Lagerstelle des AG fördern und abladenFörderweg bis 500 m.</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item RNoPart="0008" ID="id80">
+          <RefDescr>Ref</RefDescr>
+          <Qty>10.000</Qty>
+          <QU>m3</QU>
+          <Description>
+           <STLBBau>
+            <STLBBauCtlg>
+             <CtlgName>STLB-Bau</CtlgName>
+             <VersDate>1999-04</VersDate>
+             <WCtg>002</WCtg>
+             <Group>539</Group>
+            </STLBBauCtlg>
+            <STLBBauID>
+             <ArtChrIdent>3632</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>290</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>3696</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>10</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>3697</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>40</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>2342</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>3</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>3698</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>100</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>3702</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>20</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>3941</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>4</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>3701</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>1</ChVIdent>
+            </STLBBauID>
+            <STLBBauID>
+             <ArtChrIdent>2136</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>3</ChVIdent>
+            </STLBBauID>
+           </STLBBau>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Boden der Baugrube für Schächte, ab Geländeoberfläche,profilgerecht lösen und seitlich lagern, Verbau wirdgesondert vergütet, Aushubtiefe bis 2,5 m,Aushubgrundfläche über 3 bis 4 m2, Bodenklasse 4.</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item RNoPart="0009" ID="id81">
+          <RefDescr>Rep</RefDescr>
+          <RefRNo IDRef="id80"/>
+          <Qty>8.000</Qty>
+          <QU>m3</QU>
+          <Description>
+           <STLBBau>
+            <STLBBauCtlg>
+             <CtlgName>STLB-Bau</CtlgName>
+             <VersDate>1999-04</VersDate>
+             <WCtg>002</WCtg>
+             <Group>539</Group>
+            </STLBBauCtlg>
+            <STLBBauID>
+             <ArtChrIdent>3697</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>30</ChVIdent>
+            </STLBBauID>
+           </STLBBau>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Aushubtiefe bis 1,75 m</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item RNoPart="0010" ID="id82">
+          <RefDescr>Rep</RefDescr>
+          <RefRNo IDRef="id80"/>
+          <Qty>7.000</Qty>
+          <QU>m3</QU>
+          <Description>
+           <STLBBau>
+            <STLBBauCtlg>
+             <CtlgName>STLB-Bau</CtlgName>
+             <VersDate>1999-04</VersDate>
+             <WCtg>002</WCtg>
+             <Group>539</Group>
+            </STLBBauCtlg>
+            <STLBBauID>
+             <ArtChrIdent>3697</ArtChrIdent>
+             <ArtChIdx>0</ArtChIdx>
+             <ChVIdent>20</ChVIdent>
+            </STLBBauID>
+           </STLBBau>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Aushubtiefe bis 1,25 m</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+        </Itemlist>
+       </BoQBody>
+      </BoQCtgy>
+      <BoQCtgy RNoPart="02" ID="id83">
+       <LblTx>
+        <p>
+         <span>Schächte</span>
+        </p>
+       </LblTx>
+       <BoQBody>
+        <Itemlist>
+         <Item RNoPart="0001" ID="id84">
+          <ALNGroupNo>1</ALNGroupNo>
+          <ALNSerNo>0</ALNSerNo>
+          <RefDescr>Ref</RefDescr>
+          <Qty>1.000</Qty>
+          <QU>St</QU>
+          <Description>
+           <StLNo>9500940005110223</StLNo>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Schacht, rund, lichte Weite 1000 mm,</span>
+              </p>
+              <p>
+               <span>aus Betonfertigteilen DIN 4034-1, mit Schachtunterteil,</span>
+              </p>
+              <p>
+               <span>Schachtringe, Schachthals, Auflagering,</span>
+              </p>
+              <p>
+               <span>Anschlüsse für gelenkige Einbindung der Rohre</span>
+              </p>
+              <p>
+               <span>mit Muffe,</span>
+              </p>
+              <p>
+               <span>Fugendichtung mit Dichtring aus Elastomeren DIN 4060,</span>
+              </p>
+              <p>
+               <span>Gerinne gerade, Auskleidung Gerinne und Auftritt</span>
+              </p>
+              <p>
+               <span>mit Kanalklinkern DIN 4051,</span>
+              </p>
+              <p>
+               <span>größtes Rohr DN 250,</span>
+              </p>
+              <p>
+               <span>lichte Schachttiefe über 2 bis 2,5 m.</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item RNoPart="0002" ID="id85">
+          <ALNGroupNo>1</ALNGroupNo>
+          <ALNSerNo>0</ALNSerNo>
+          <RefDescr>Rep</RefDescr>
+          <RefRNo IDRef="id84"/>
+          <Qty>1.000</Qty>
+          <QU>St</QU>
+          <Description>
+           <StLNo>9500940005110222</StLNo>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>lichte Schachttiefe bis 2 m.</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item RNoPart="0003" ID="id86">
+          <ALNGroupNo>1</ALNGroupNo>
+          <ALNSerNo>0</ALNSerNo>
+          <RefDescr>Rep</RefDescr>
+          <RefRNo IDRef="id84"/>
+          <Qty>1.000</Qty>
+          <QU>St</QU>
+          <Description>
+           <StLNo>9500940005110221</StLNo>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>lichte Schachttiefe bis 1,5 m.</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item RNoPart="0004" ID="id87">
+          <ALNGroupNo>1</ALNGroupNo>
+          <ALNSerNo>0</ALNSerNo>
+          <Qty>25.000</Qty>
+          <QU>St</QU>
+          <Description>
+           <StLNo>9500969111020003</StLNo>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Steigeisen DIN 1211</span>
+              </p>
+              <p>
+               <span>aus Gußeisen,</span>
+              </p>
+              <p>
+               <span>Steigmaß 250 mm,</span>
+              </p>
+              <p>
+               <span>Form E zum Einbauen in Betonfertigteile,</span>
+              </p>
+              <p>
+               <span>Einbau einschl. Befestigungsarbeiten und -mittel.</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item RNoPart="0005" ID="id88">
+          <ALNGroupNo>1</ALNGroupNo>
+          <ALNSerNo>1</ALNSerNo>
+          <RefDescr>Ref</RefDescr>
+          <Qty>1.000</Qty>
+          <QU>St</QU>
+          <Description>
+           <StLNo>9500940031111223</StLNo>
+           <CompleteText>
+            <ComplTSA>Yes</ComplTSA>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Schacht, rund, lichte Weite 1000 mm,</span>
+              </p>
+              <p>
+               <span>Schachtunterteil aus Ortbeton,</span>
+              </p>
+              <p>
+               <span>Bodenplatte aus Beton B 25 WU, mind. 20 cm dick,</span>
+              </p>
+              <span/>
+             </Text>
+             <TextComplement Kind="Owner" MarkLbl="21">
+              <ComplCaption>Wand aus Beton B 25 WU, Dicke in cm</ComplCaption>
+              <ComplBody>20</ComplBody>
+              <ComplTail>,</ComplTail>
+             </TextComplement>
+             <Text>
+              <p>
+               <span>Höhe Unterteil mind. 25 cm über Rohrscheitel,</span>
+              </p>
+              <span/>
+             </Text>
+             <TextComplement Kind="Owner" MarkLbl="22">
+              <ComplCaption>Höhe des Auftritts</ComplCaption>
+              <ComplBody>10 cm</ComplBody>
+              <ComplTail>,</ComplTail>
+             </TextComplement>
+             <Text>
+              <p>
+               <span>Schachtoberteil aus Betonfertigteilen DIN 4034-1,</span>
+              </p>
+              <p>
+               <span>gleiche Lichtweite wie Unterteil,</span>
+              </p>
+              <p>
+               <span>Schachtringe, Schachthals, Auflagering,</span>
+              </p>
+              <p>
+               <span>Anschlüsse für gelenkige Einbindung der Rohre</span>
+              </p>
+              <p>
+               <span>mit Muffe,</span>
+              </p>
+              <p>
+               <span>Fugendichtung mit Dichtring aus Elastomeren DIN 4060,</span>
+              </p>
+              <span/>
+             </Text>
+             <TextComplement Kind="Owner" MarkLbl="41">
+              <ComplCaption>Steigeinrichtung, Ausführung</ComplCaption>
+              <ComplBody>DIN 1211, aus Gußeisen,Steigmaß 250 mm, Form E zum Einbauen in Betonfertig-teilen, Einbau einschl. Befestigungsarbeiten und-mittel</ComplBody>
+              <ComplTail>,</ComplTail>
+             </TextComplement>
+             <Text>
+              <p>
+               <span/>
+              </p>
+              <p>
+               <span/>
+              </p>
+              <p>
+               <span/>
+              </p>
+              <p>
+               <span>Gerinne gerade, Auskleidung Gerinne und Auftritt</span>
+              </p>
+              <p>
+               <span>mit Kanalklinkern DIN 4051,</span>
+              </p>
+              <p>
+               <span>größtes Rohr DN 250,</span>
+              </p>
+              <p>
+               <span>lichte Schachttiefe über 2 bis 2,5 m.</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item RNoPart="0006" ID="id89">
+          <ALNGroupNo>1</ALNGroupNo>
+          <ALNSerNo>1</ALNSerNo>
+          <RefDescr>Rep</RefDescr>
+          <RefRNo IDRef="id88"/>
+          <Qty>1.000</Qty>
+          <QU>St</QU>
+          <Description>
+           <StLNo>9500940031111222</StLNo>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>lichte Schachttiefe bis 2 m.</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item RNoPart="0007" ID="id90">
+          <ALNGroupNo>1</ALNGroupNo>
+          <ALNSerNo>1</ALNSerNo>
+          <RefDescr>Rep</RefDescr>
+          <RefRNo IDRef="id88"/>
+          <Qty>1.000</Qty>
+          <QU>St</QU>
+          <Description>
+           <StLNo>9500940031111221</StLNo>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>lichte Schachttiefe bis 1,5 m.</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item RNoPart="0008" ID="id91">
+          <ALNGroupNo>1</ALNGroupNo>
+          <ALNSerNo>2</ALNSerNo>
+          <Qty>3.000</Qty>
+          <QU>St</QU>
+          <Description>
+           <StLNo>9500942502000242</StLNo>
+           <CompleteText>
+            <ComplTSA>Yes</ComplTSA>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Schachtunterteil DIN 19549, rund,</span>
+              </p>
+              <p>
+               <span>lichte Weite 1000 mm, </span>
+              </p>
+              <p>
+               <span>als Betonfertigteil DIN 4034-1,</span>
+              </p>
+              <p>
+               <span>Wand aus Stahlbeton B 25 WU, 20 cm dick,</span>
+              </p>
+              <p>
+               <span>Gerinne gerade, Auskleidung Gerinne und Auftritt mit</span>
+              </p>
+              <p>
+               <span>Kanalklinkern DIN 4051,</span>
+              </p>
+              <span/>
+             </Text>
+             <TextComplement Kind="Owner" MarkLbl="51">
+              <ComplCaption>Auftritt</ComplCaption>
+              <ComplBody>10 cm hoch</ComplBody>
+              <ComplTail>,</ComplTail>
+             </TextComplement>
+             <Text>
+              <p>
+               <span>größtes Rohr DN 250.</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item RNoPart="0009" ID="id92">
+          <ALNGroupNo>1</ALNGroupNo>
+          <ALNSerNo>2</ALNSerNo>
+          <Qty>10.000</Qty>
+          <QU>St</QU>
+          <Description>
+           <StLNo>9500949401220001</StLNo>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Schachtring</span>
+              </p>
+              <p>
+               <span>SR-M DIN 4034-1,</span>
+              </p>
+              <p>
+               <span>Durchmesser 1000 mm,</span>
+              </p>
+              <p>
+               <span>Bauhöhe 500 mm.</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item RNoPart="0010" ID="id93">
+          <ALNGroupNo>1</ALNGroupNo>
+          <ALNSerNo>2</ALNSerNo>
+          <Qty>3.000</Qty>
+          <QU>St</QU>
+          <Description>
+           <StLNo>9500949801210001</StLNo>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Schachthals</span>
+              </p>
+              <p>
+               <span>SH-M DIN 4034-1,</span>
+              </p>
+              <p>
+               <span>Durchmesser 1000 mm/625 mm,</span>
+              </p>
+              <p>
+               <span>Bauhöhe 600 mm,</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item RNoPart="0011" ID="id94">
+          <ALNGroupNo>1</ALNGroupNo>
+          <ALNSerNo>2</ALNSerNo>
+          <Qty>3.000</Qty>
+          <QU>St</QU>
+          <Description>
+           <StLNo>9500950112010001</StLNo>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Auflagering</span>
+              </p>
+              <p>
+               <span>AR-V DIN 4034-1,</span>
+              </p>
+              <p>
+               <span>Bauhöhe 80 mm,</span>
+              </p>
+              <p>
+               <span>Fugendichtung mit Dichtring aus Elastomeren DIN 4060,</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item RNoPart="0012" ID="id95">
+          <ALNGroupNo>1</ALNGroupNo>
+          <ALNSerNo>2</ALNSerNo>
+          <Qty>25.000</Qty>
+          <QU>St</QU>
+          <Description>
+           <StLNo>9500969111020003</StLNo>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Steigeisen DIN 1211</span>
+              </p>
+              <p>
+               <span>aus Gußeisen,</span>
+              </p>
+              <p>
+               <span>Steigmaß 250 mm,</span>
+              </p>
+              <p>
+               <span>Form E zum Einbauen in Betonfertigteile,</span>
+              </p>
+              <p>
+               <span>Einbau einschl. Befestigungsarbeiten und -mittel.</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+        </Itemlist>
+       </BoQBody>
+      </BoQCtgy>
+      <BoQCtgy RNoPart="03" ID="id96">
+       <LblTx>
+        <p>
+         <span>Trockenbauarbeiten</span>
+        </p>
+       </LblTx>
+       <BoQBody>
+        <Itemlist>
+         <Item RNoPart="0001" ID="id97">
+          <Qty>2500.000</Qty>
+          <QU>m2</QU>
+          <Description>
+           <StLNo>9703901321110104</StLNo>
+           <CompleteText>
+            <ComplTSA>Yes</ComplTSA>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Nichttragende innere Trennwand DIN 4103-1</span>
+              </p>
+              <p>
+               <span>Als Montagewand, Einbaubereich 1,</span>
+              </p>
+              <p>
+               <span>Höhe bis 3,5 m,</span>
+              </p>
+              <p>
+               <span>Dicke 100 mm,</span>
+              </p>
+              <span/>
+             </Text>
+             <TextComplement Kind="Owner" MarkLbl="22">
+              <ComplCaption>bewertetes Schalldämmaß DIN 4109 RW,R in dB</ComplCaption>
+              <ComplBody>45</ComplBody>
+              <ComplTail>,</ComplTail>
+             </TextComplement>
+             <Text>
+              <p>
+               <span>Feuerwiderstandsklasse DIN 4102-2 F 30</span>
+              </p>
+              <p>
+               <span>-A,</span>
+              </p>
+              <p>
+               <span>umlaufende Anschlüsse starr.</span>
+              </p>
+              <p>
+               <span>Ausführung wie folgt:</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+          <SumDescr>Yes</SumDescr>
+          <SubDescr>
+           <SubDNo>1</SubDNo>
+           <Description>
+            <StLNo>970391550301</StLNo>
+            <CompleteText>
+             <DetailTxt>
+              <Text>
+               <p>
+                <span>Unterkonstruktion</span>
+               </p>
+               <p>
+                <span>aus verzinkten Stahlblechprofilen DIN 18182-1/</span>
+               </p>
+               <p>
+                <span>DIN 18183,</span>
+               </p>
+               <p>
+                <span>als Einfachständerwerk.</span>
+               </p>
+              </Text>
+             </DetailTxt>
+             <OutlineText>
+              <OutlTxt>
+               <TextOutlTxt>
+                <p>
+                 <span/>
+                </p>
+               </TextOutlTxt>
+              </OutlTxt>
+             </OutlineText>
+            </CompleteText>
+           </Description>
+          </SubDescr>
+          <SubDescr>
+           <SubDNo>2</SubDNo>
+           <Description>
+            <StLNo>9703915630210131</StLNo>
+            <CompleteText>
+             <ComplTSA>Yes</ComplTSA>
+             <DetailTxt>
+              <Text>
+               <p>
+                <span>Dämmschicht</span>
+               </p>
+               <p>
+                <span>aus mineralischem Faserdämmstoff DIN 18165-1</span>
+               </p>
+               <p>
+                <span>in Platten,</span>
+               </p>
+               <p>
+                <span>einlagig, dicht stoßen,</span>
+               </p>
+               <p>
+                <span>abrutschsicher verlegen,</span>
+               </p>
+               <p>
+                <span>längenspezifischer Strömungswiderstand größer</span>
+               </p>
+               <p>
+                <span>5 kN x s/m4,</span>
+               </p>
+               <span/>
+              </Text>
+              <TextComplement Kind="Owner" MarkLbl="51">
+               <ComplCaption>Mindestrohdichte in kg/m3</ComplCaption>
+               <ComplBody>40</ComplBody>
+               <ComplTail/>
+              </TextComplement>
+              <Text>
+               <p>
+                <span>Schmelzpunkt mind. 1000 K,</span>
+               </p>
+               <span/>
+              </Text>
+              <TextComplement Kind="Owner" MarkLbl="52">
+               <ComplCaption>Dicke in mm</ComplCaption>
+               <ComplBody>40</ComplBody>
+               <ComplTail>.</ComplTail>
+              </TextComplement>
+              <Text/>
+             </DetailTxt>
+             <OutlineText>
+              <OutlTxt>
+               <TextOutlTxt>
+                <p>
+                 <span/>
+                </p>
+               </TextOutlTxt>
+              </OutlTxt>
+             </OutlineText>
+            </CompleteText>
+           </Description>
+          </SubDescr>
+          <SubDescr>
+           <SubDNo>3</SubDNo>
+           <Description>
+            <StLNo>9703916520030111</StLNo>
+            <CompleteText>
+             <DetailTxt>
+              <Text>
+               <p>
+                <span>Beplankung, beidseitig,</span>
+               </p>
+               <p>
+                <span>Verarbeitung DIN 18181, einlagig,</span>
+               </p>
+               <p>
+                <span>aus Gipskarton-Feuerschutzplatten GKF DIN 18180,</span>
+               </p>
+               <p>
+                <span>Plattendicke 12,5 mm,</span>
+               </p>
+               <p>
+                <span>Befestigen mit Schnellbauschrauben DIN 18182-2.</span>
+               </p>
+               <p>
+                <span>Fugen füllen, sichtbare Befestigungsmittel und Fugen</span>
+               </p>
+               <p>
+                <span>spachteln.</span>
+               </p>
+              </Text>
+             </DetailTxt>
+             <OutlineText>
+              <OutlTxt>
+               <TextOutlTxt>
+                <p>
+                 <span/>
+                </p>
+               </TextOutlTxt>
+              </OutlTxt>
+             </OutlineText>
+            </CompleteText>
+           </Description>
+          </SubDescr>
+         </Item>
+        </Itemlist>
+       </BoQBody>
+      </BoQCtgy>
+      <BoQCtgy RNoPart="04" ID="id98">
+       <LblTx>
+        <p>
+         <span>Maler und Lackierarbeiten</span>
+        </p>
+       </LblTx>
+       <BoQBody>
+        <Itemlist>
+         <PerfDescr ID="id99">
+          <PerfNo>1</PerfNo>
+          <PerfLbl>Erneuerungsbeschichtungen der Garteneinrichtungen</PerfLbl>
+          <Description>
+           <StLNo>960345220204</StLNo>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Erneuerungsbeschichtung</span>
+              </p>
+              <p>
+               <span>im Außenbereich.</span>
+              </p>
+              <p>
+               <span>Allseitig.</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+          <Description>
+           <StLNo>9603460801400011</StLNo>
+           <CompleteText>
+            <ComplTSA>Yes</ComplTSA>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Beschichtung aus Einkomponentenlack</span>
+              </p>
+              <span/>
+             </Text>
+             <TextComplement Kind="Owner" MarkLbl="23">
+              <ComplCaption>Beschaffenheit</ComplCaption>
+              <ComplBody>stark abblätternd</ComplBody>
+              <ComplTail>,</ComplTail>
+             </TextComplement>
+             <Text>
+              <p>
+               <span>bis zur tragfähigen Schicht entfernen</span>
+              </p>
+              <p>
+               <span>Anfallende Stoffe getrennt in vom AG gestellten</span>
+              </p>
+              <p>
+               <span>Behältern sammeln.</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+          <Description>
+           <StLNo>9603467007000001</StLNo>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Fleckspachteln</span>
+              </p>
+              <p>
+               <span>Mit Kunstharzspachtelmasse,</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+          <Description>
+           <StLNo>9603472001131001</StLNo>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Grundbeschichtung auf Untergrund aus Holz</span>
+              </p>
+              <p>
+               <span>mit Alkydharzlackfarbe,</span>
+              </p>
+              <p>
+               <span>wasserverdünnbar,</span>
+              </p>
+              <p>
+               <span>mit fungizidem und insektizidem Zusatzstoff,</span>
+              </p>
+              <p>
+               <span>absperren gegen verfärbende Inhaltsstoffe,</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+          <Description>
+           <StLNo>9603472201100001</StLNo>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Eine Zwischenbeschichtung für Untergrund aus Holz</span>
+              </p>
+              <p>
+               <span>mit Alkydharzlackfarbe,</span>
+              </p>
+              <p>
+               <span>wasserverdünnbar,</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+          <Description>
+           <StLNo>9603473201120421</StLNo>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Schlußbeschichtung für Untergrund aus Holz</span>
+              </p>
+              <p>
+               <span>mit Alkydharzlackfarbe,</span>
+              </p>
+              <p>
+               <span>wasserverdünnbar,</span>
+              </p>
+              <p>
+               <span>glänzend,</span>
+              </p>
+              <p>
+               <span>mittelgetönt.</span>
+              </p>
+              <p>
+               <span>Farbton nach Muster des AG.</span>
+              </p>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </PerfDescr>
+         <Item RNoPart="0001" ID="id100">
+          <RefPerfNo IDRef="id99"/>
+          <Qty>2.000</Qty>
+          <QU>St</QU>
+          <Description>
+           <StLNo>9700344110140001</StLNo>
+           <CompleteText>
+            <ComplTSA>Yes</ComplTSA>
+            <DetailTxt/>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item RNoPart="0002" ID="id101">
+          <RefPerfNo IDRef="id99"/>
+          <Qty>8.000</Qty>
+          <QU>St</QU>
+          <Description>
+           <StLNo>9700344380540071</StLNo>
+           <CompleteText>
+            <ComplTSA>Yes</ComplTSA>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Gartenbank</span>
+              </p>
+              <span/>
+             </Text>
+             <TextComplement Kind="Owner" MarkLbl="21">
+              <ComplCaption>aus</ComplCaption>
+              <ComplBody>Holzlattenprofilen 70 x 20 mm Querschnitt</ComplBody>
+              <ComplTail>,</ComplTail>
+             </TextComplement>
+             <Text>
+              <span/>
+             </Text>
+             <TextComplement Kind="Owner" MarkLbl="31">
+              <ComplCaption>mit Rückenlehne, Maße in cm</ComplCaption>
+              <ComplBody>Länge 160</ComplBody>
+              <ComplTail>,</ComplTail>
+             </TextComplement>
+             <Text>
+              <p>
+               <span>mit Bodenklammern,</span>
+              </p>
+              <span/>
+             </Text>
+             <TextComplement Kind="Owner" MarkLbl="51">
+              <ComplCaption/>
+              <ComplBody>in Beton dauerhaft befestigt</ComplBody>
+              <ComplTail>.</ComplTail>
+             </TextComplement>
+             <Text/>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item RNoPart="0003" ID="id102">
+          <RefPerfNo IDRef="id99"/>
+          <Qty>15.000</Qty>
+          <QU>St</QU>
+          <Description>
+           <StLNo>9700344710100071</StLNo>
+           <CompleteText>
+            <ComplTSA>Yes</ComplTSA>
+            <DetailTxt>
+             <Text>
+              <p>
+               <span>Sitzrost</span>
+              </p>
+              <span/>
+             </Text>
+             <TextComplement Kind="Owner" MarkLbl="21">
+              <ComplCaption>aus Holz, Art</ComplCaption>
+              <ComplBody>Kieferholz</ComplBody>
+              <ComplTail>,</ComplTail>
+             </TextComplement>
+             <Text>
+              <span/>
+             </Text>
+             <TextComplement Kind="Owner" MarkLbl="31">
+              <ComplCaption>Maße in cm</ComplCaption>
+              <ComplBody>45 x 120</ComplBody>
+              <ComplTail>,</ComplTail>
+             </TextComplement>
+             <Text>
+              <span/>
+             </Text>
+             <TextComplement Kind="Owner" MarkLbl="51">
+              <ComplCaption/>
+              <ComplBody>an Betonsockel mit Dübel befestigt</ComplBody>
+              <ComplTail>.</ComplTail>
+             </TextComplement>
+             <Text/>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <p>
+                <span/>
+               </p>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+        </Itemlist>
+       </BoQBody>
+      </BoQCtgy>
+     </BoQBody>
+    </BoQCtgy>
+   </BoQBody>
+  </BoQ>
+ </Award>
+</GAEB>

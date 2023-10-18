@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- GXML Toolbox V3.1 R20080717;  http://www.gaeb-toolbox.de/ 
+ gtcConverter.dll used version 1.3.1.17  -->
+<GAEB xmlns="http://www.gaeb.de/GAEB_DA_XML/200407">
+ <GAEBInfo>
+  <Version>3.1</Version>
+  <VersDate>2007-06</VersDate>
+  <Date>2009-01-05</Date>
+  <Time>14:00:00</Time>
+  <ProgSystem>/ GXML Toolbox V3.1 R20080717</ProgSystem>
+  <ProgName>ARRIBAp V12.4.478</ProgName>
+ </GAEBInfo>
+ <PrjInfo>
+  <NamePrj>GAEB0002</NamePrj>
+  <LblPrj>Musterprojekt für Leistungsverzeichnisse nach GAEB</LblPrj>
+  <Cur>EUR</Cur>
+  <CurLbl>Euro</CurLbl>
+  <BidCommPerm>Yes</BidCommPerm>
+  <AlterBidPerm>Yes</AlterBidPerm>
+ </PrjInfo>
+ <Award>
+  <DP>83</DP>
+  <AwardInfo>
+   <Cat>OpenCall</Cat>
+   <Cur>EUR</Cur>
+   <CurLbl>Euro</CurLbl>
+   <OpenDate>2008-07-07</OpenDate>
+   <OpenTime>15:20:03</OpenTime>
+   <EvalEnd>2008-07-18</EvalEnd>
+   <SubmLoc>Zimmer 08</SubmLoc>
+   <CnstStart>2008-10-24</CnstStart>
+   <CnstEnd>2008-11-08</CnstEnd>
+   <ContrNo>A-1234</ContrNo>
+   <ContrDate>2008-08-14</ContrDate>
+   <AcceptType>Förmliche Abnahme</AcceptType>
+   <WarrDur>2</WarrDur>
+   <WarrUnit>Years</WarrUnit>
+  </AwardInfo>
+  <OWN>
+   <Address>
+    <Name1>OfD GAEBhausen</Name1>
+    <Name4>Abteilung Hochbau</Name4>
+    <Street>Hohe Gasse 200</Street>
+    <PCode>79879</PCode>
+    <City>GAEBhausen</City>
+   </Address>
+   <DPNo>D-1234</DPNo>
+   <AwardNo>V-1234</AwardNo>
+  </OWN>
+  <AddText>
+   <OutlineAddText>
+    <p>
+     <span>Beschreibung</span>
+    </p>
+   </OutlineAddText>
+   <DetailAddText>
+    <p style="text-align:center;">
+     <span style="font-family:Arial;font-size:16pt;color:rgb(0,0,0);font-weight:bold;">Struktur des Musterleistungsverzeichnisses</span>
+    </p>
+    <p style="text-align:left;font-size:10pt;font-family:Arial;color:rgb(0,0,0);">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);"/>
+    </p>
+    <p style="text-align:left;font-size:10pt;font-family:Arial;color:rgb(0,0,0);">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);"/>
+    </p>
+    <p style="text-align:left;">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Dieses Musterleistungsverzeichnis hat eine Hierarchie.</span>
+    </p>
+    <p style="text-align:left;font-size:10pt;font-family:Arial;color:rgb(0,0,0);">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);"/>
+    </p>
+    <p style="text-align:left;">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Es hat folgende OZ-Struktur:</span>
+    </p>
+    <table cellpadding="0" org="TAB">
+     <tr>
+      <td valign="top" style="" colspan="4">
+       <p style="text-align:left;font-size:10pt;font-family:Arial;color:rgb(0,0,0);">
+        <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);"/>
+       </p>
+      </td>
+     </tr>
+     <tr>
+      <td valign="top" style="width:48;">
+       <p style="text-align:left;font-size:10pt;font-family:Arial;color:rgb(0,0,0);">
+        <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);"/>
+       </p>
+      </td>
+      <td valign="top" style="width:96;" colspan="2">
+       <p style="text-align:left;">
+        <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">2 Stellen</span>
+       </p>
+      </td>
+      <td valign="top" style="width:48;">
+       <p>
+        <span/>
+       </p>
+      </td>
+      <td valign="top" style="width:96;" colspan="2">
+       <p style="text-align:left;">
+        <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Bereich</span>
+       </p>
+      </td>
+     </tr>
+     <tr>
+      <td valign="top" style="width:48;">
+       <p>
+        <span/>
+       </p>
+      </td>
+      <td valign="top" style="width:96;" colspan="2">
+       <p style="text-align:left;">
+        <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">4 Stellen</span>
+       </p>
+      </td>
+      <td valign="top" style="width:48;">
+       <p>
+        <span/>
+       </p>
+      </td>
+      <td valign="top" style="width:192;" colspan="4">
+       <p style="text-align:left;">
+        <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Position, numerisch</span>
+       </p>
+      </td>
+     </tr>
+     <tr>
+      <td valign="top" style="width:48;">
+       <p>
+        <span/>
+       </p>
+      </td>
+      <td valign="top" style="width:96;" colspan="2">
+       <p style="text-align:left;">
+        <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">1 Stelle</span>
+       </p>
+      </td>
+      <td valign="top" style="width:48;">
+       <p>
+        <span/>
+       </p>
+      </td>
+      <td valign="top" style="width:144;" colspan="3">
+       <p style="text-align:left;">
+        <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Positionsindex</span>
+       </p>
+      </td>
+     </tr>
+    </table>
+    <p style="text-align:left;font-size:10pt;font-family:Arial;color:rgb(0,0,0);">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);"/>
+    </p>
+    <p style="text-align:left;">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Auf dem Bereich sind unterschiedliche Mwst.-Sätze von 7% und 19% angegeben.</span>
+    </p>
+    <p style="text-align:left;font-size:10pt;font-family:Arial;color:rgb(0,0,0);">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);"/>
+    </p>
+    <p style="text-align:left;">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Der Mwst.-Satz auf den darüberliegenden Ebenen, hier das LV, ist für die Berechung des Bruttowertes nicht relevant. Er gilt nur als Vorbelegung bei der Erfassung von neuen Bereichen.</span>
+    </p>
+    <p style="text-align:left;font-size:10pt;font-family:Arial;color:rgb(0,0,0);">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);"/>
+    </p>
+    <p style="text-align:left;">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Im 2. Bereich sind Nachtragspositionen mit allen Stati angegeben, die unabhängig des Status mitgerechnet werden.</span>
+    </p>
+    <p style="text-align:left;font-size:10pt;font-family:Arial;color:rgb(0,0,0);">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);"/>
+    </p>
+    <p style="text-align:left;">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Zusätzlich sind Zahlungsbedingungen angegeben.</span>
+    </p>
+    <p style="text-align:left;">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">18 Tage rein Netto</span>
+    </p>
+    <p style="text-align:left;">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">10 Tage 2 % Skonto</span>
+    </p>
+    <p style="text-align:left;">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Bis 13.12.2008  3% Skonto</span>
+    </p>
+    <p style="text-align:left;">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Hinweis: Die Termine sind fiktiv und nicht logisch.</span>
+    </p>
+    <p style="text-align:left;font-size:10pt;font-family:Arial;color:rgb(0,0,0);">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);"/>
+    </p>
+    <p style="text-align:left;">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Die Angebotspreise (EP) dürfen mit max. 2-Nachkommastellen erfasst werden.</span>
+    </p>
+    <p style="text-align:left;font-size:10pt;font-family:Arial;color:rgb(0,0,0);">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);"/>
+    </p>
+    <p style="text-align:left;">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">An einer Position ist der Stundenbedarf angegeben.</span>
+    </p>
+    <p style="text-align:left;font-size:10pt;font-family:Arial;color:rgb(0,0,0);">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);"/>
+    </p>
+    <p style="text-align:left;">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Bieterkommentare sind erlaubt.</span>
+    </p>
+    <p style="text-align:left;font-size:10pt;font-family:Arial;color:rgb(0,0,0);">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);"/>
+    </p>
+    <p style="text-align:left;">
+     <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Nebenangebote sind zugelassen.</span>
+    </p>
+   </DetailAddText>
+  </AddText>
+  <BoQ ID="DBDIAAAA">
+   <BoQInfo>
+    <Name>2008-004</Name>
+    <LblBoQ>Muster-LV mit besonderen Bedingungen</LblBoQ>
+    <Date>2009-01-05</Date>
+    <OutlCompl>AllTxt</OutlCompl>
+    <BoQBkdn>
+     <Type>BoQLevel</Type>
+     <LblBoQBkdn>Bereich</LblBoQBkdn>
+     <Length>2</Length>
+     <Num>Yes</Num>
+    </BoQBkdn>
+    <BoQBkdn>
+     <Type>Item</Type>
+     <Length>4</Length>
+     <Num>Yes</Num>
+    </BoQBkdn>
+    <BoQBkdn>
+     <Type>Index</Type>
+     <Length>1</Length>
+     <Num>No</Num>
+     <Alignment>left</Alignment>
+    </BoQBkdn>
+    <Ctlg>
+     <CtlgID>DBAMAAPE</CtlgID>
+     <CtlgType>work category</CtlgType>
+     <CtlgName>Leistungsbereichkatalog</CtlgName>
+    </Ctlg>
+    <Ctlg>
+     <CtlgID>DANDJBFI</CtlgID>
+     <CtlgType>cost group DIN 276-06</CtlgType>
+     <CtlgName>DIN276_06</CtlgName>
+    </Ctlg>
+   </BoQInfo>
+   <BoQBody>
+    <BoQCtgy ID="DBDPAAAA" RNoPart="1">
+     <LblTx>
+      <p>
+       <span>Bereich mit 19% Ust.</span>
+      </p>
+     </LblTx>
+     <BoQBody>
+      <Itemlist>
+       <Remark ID="DBDPADJA">
+        <Description>
+         <CompleteText>
+          <DetailTxt>
+           <Text>
+            <p style="text-align:left;">
+             <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Nachfolgende Position ist aus STLB-Bau und ist mit einem Bieterkommentar versehen.</span>
+            </p>
+           </Text>
+          </DetailTxt>
+         </CompleteText>
+        </Description>
+       </Remark>
+       <Item ID="DBDPAGEI" RNoPart="10">
+        <Qty>100.000</Qty>
+        <QU>m2</QU>
+        <CtlgAssign>
+         <CtlgID>DBAMAAPE</CtlgID>
+         <CtlgCode>002</CtlgCode>
+        </CtlgAssign>
+        <CtlgAssign>
+         <CtlgID>DANDJBFI</CtlgID>
+         <CtlgCode>511</CtlgCode>
+        </CtlgAssign>
+        <Description>
+         <STLBBau>
+          <STLBBauCtlg>
+           <CtlgName>STLB-Bau</CtlgName>
+           <VersDate>2008-04</VersDate>
+           <WCtg>002</WCtg>
+           <Group>526</Group>
+          </STLBBauCtlg>
+          <STLBBauID>
+           <ArtChrIdent>2136</ArtChrIdent>
+           <ArtChIdx>0</ArtChIdx>
+           <ChVIdent>1</ChVIdent>
+          </STLBBauID>
+          <STLBBauID>
+           <ArtChrIdent>3701</ArtChrIdent>
+           <ArtChIdx>0</ArtChIdx>
+           <ChVIdent>25</ChVIdent>
+           <OutlTextPart>Yes</OutlTextPart>
+          </STLBBauID>
+          <STLBBauID>
+           <ArtChrIdent>783</ArtChrIdent>
+           <ArtChIdx>0</ArtChIdx>
+           <ChVIdent>1</ChVIdent>
+          </STLBBauID>
+          <STLBBauID>
+           <ArtChrIdent>3628</ArtChrIdent>
+           <ArtChIdx>0</ArtChIdx>
+           <ChVIdent>10</ChVIdent>
+           <OutlTextPart>Yes</OutlTextPart>
+          </STLBBauID>
+          <STLBBauID>
+           <ArtChrIdent>3632</ArtChrIdent>
+           <ArtChIdx>0</ArtChIdx>
+           <ChVIdent>10</ChVIdent>
+          </STLBBauID>
+          <STLBBauID>
+           <ArtChrIdent>5650</ArtChrIdent>
+           <ArtChIdx>0</ArtChIdx>
+           <ChVIdent>1</ChVIdent>
+          </STLBBauID>
+          <STLBBauID>
+           <ArtChrIdent>3629</ArtChrIdent>
+           <ArtChIdx>0</ArtChIdx>
+           <ChVIdent>25</ChVIdent>
+           <OutlTextPart>Yes</OutlTextPart>
+          </STLBBauID>
+          <STLBBauID>
+           <ArtChrIdent>3631</ArtChrIdent>
+           <ArtChIdx>0</ArtChIdx>
+           <ChVIdent>20</ChVIdent>
+          </STLBBauID>
+          <STLBBauID>
+           <ArtChrIdent>7806</ArtChrIdent>
+           <ArtChIdx>0</ArtChIdx>
+           <ChVIdent>4</ChVIdent>
+           <OutlTextPart>Yes</OutlTextPart>
+          </STLBBauID>
+         </STLBBau>
+         <CompleteText>
+          <DetailTxt>
+           <Text>
+            <p style="text-align:left;">
+             <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Oberboden, Bodengruppe 4 DIN 18915, abtragen, seitlich lagern, Abtragdicke im Mittel 25 cm, Mengenermittlung nach Aufmaß an der Entnahmestelle.</span>
+            </p>
+           </Text>
+          </DetailTxt>
+          <OutlineText>
+           <OutlTxt>
+            <TextOutlTxt>
+             <p>
+              <span>Oberboden BG4 abtragen lagern Abtrag-D 25cm</span>
+             </p>
+            </TextOutlTxt>
+           </OutlTxt>
+          </OutlineText>
+         </CompleteText>
+        </Description>
+       </Item>
+      </Itemlist>
+     </BoQBody>
+    </BoQCtgy>
+    <BoQCtgy ID="DBEAAAAA" RNoPart="2">
+     <LblTx>
+      <p>
+       <span>Bereich mit 7% Ust.</span>
+       <br/>
+       <span>Nachträge in verschiedenen Phasen</span>
+      </p>
+     </LblTx>
+     <BoQBody>
+      <Itemlist>
+       <Item ID="DBEAADJA" RNoPart="10">
+        <Qty>10.000</Qty>
+        <QU>m</QU>
+        <Description>
+         <CompleteText>
+          <DetailTxt>
+           <Text>
+            <p style="text-align:left;">
+             <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Nachtragsposition erkannt</span>
+            </p>
+           </Text>
+          </DetailTxt>
+          <OutlineText>
+           <OutlTxt>
+            <TextOutlTxt>
+             <p>
+              <span>Nachtragsposition erkannt</span>
+             </p>
+            </TextOutlTxt>
+           </OutlTxt>
+          </OutlineText>
+         </CompleteText>
+        </Description>
+       </Item>
+       <Item ID="DBEAAIEI" RNoPart="20">
+        <Qty>10.000</Qty>
+        <QU>m</QU>
+        <Description>
+         <CompleteText>
+          <DetailTxt>
+           <Text>
+            <p style="text-align:left;">
+             <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Nachtragsposition angemeldet.</span>
+            </p>
+           </Text>
+          </DetailTxt>
+          <OutlineText>
+           <OutlTxt>
+            <TextOutlTxt>
+             <p>
+              <span>Nachtragsposition angemeldet</span>
+             </p>
+            </TextOutlTxt>
+           </OutlTxt>
+          </OutlineText>
+         </CompleteText>
+        </Description>
+       </Item>
+       <Item ID="DBEAAMMA" RNoPart="30">
+        <Qty>10.000</Qty>
+        <QU>m</QU>
+        <Description>
+         <CompleteText>
+          <DetailTxt>
+           <Text>
+            <p style="text-align:left;">
+             <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Nachtragsposition angeboten.</span>
+            </p>
+           </Text>
+          </DetailTxt>
+          <OutlineText>
+           <OutlTxt>
+            <TextOutlTxt>
+             <p>
+              <span>Nachtragsposition angeboten</span>
+             </p>
+            </TextOutlTxt>
+           </OutlTxt>
+          </OutlineText>
+         </CompleteText>
+        </Description>
+       </Item>
+       <Item ID="DBEABBGA" RNoPart="40">
+        <Qty>10.000</Qty>
+        <QU>m</QU>
+        <Description>
+         <CompleteText>
+          <DetailTxt>
+           <Text>
+            <p style="text-align:left;">
+             <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Nachtragsposition zurückgezogen.</span>
+            </p>
+           </Text>
+          </DetailTxt>
+          <OutlineText>
+           <OutlTxt>
+            <TextOutlTxt>
+             <p>
+              <span>Nachtragsposition zurückgezogen</span>
+             </p>
+            </TextOutlTxt>
+           </OutlTxt>
+          </OutlineText>
+         </CompleteText>
+        </Description>
+       </Item>
+       <Item ID="DBEABFNI" RNoPart="50">
+        <Qty>10.000</Qty>
+        <QU>m</QU>
+        <Description>
+         <CompleteText>
+          <DetailTxt>
+           <Text>
+            <p style="text-align:left;">
+             <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Nachtragsposition abgelehnt.</span>
+            </p>
+           </Text>
+          </DetailTxt>
+          <OutlineText>
+           <OutlTxt>
+            <TextOutlTxt>
+             <p>
+              <span>Nachtragsposition abgelehnt</span>
+             </p>
+            </TextOutlTxt>
+           </OutlTxt>
+          </OutlineText>
+         </CompleteText>
+        </Description>
+       </Item>
+       <Item ID="DBEABKEI" RNoPart="60">
+        <Qty>10.000</Qty>
+        <QU>m</QU>
+        <Description>
+         <CompleteText>
+          <DetailTxt>
+           <Text>
+            <p style="text-align:left;">
+             <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Nachtragsposition angelehnt mit Widerspruch.</span>
+            </p>
+           </Text>
+          </DetailTxt>
+          <OutlineText>
+           <OutlTxt>
+            <TextOutlTxt>
+             <p>
+              <span>Nachtragsposition abgelehnt mit Widerspruch</span>
+             </p>
+            </TextOutlTxt>
+           </OutlTxt>
+          </OutlineText>
+         </CompleteText>
+        </Description>
+       </Item>
+       <Item ID="DBEABONI" RNoPart="70">
+        <Qty>10.000</Qty>
+        <QU>m</QU>
+        <Description>
+         <CompleteText>
+          <DetailTxt>
+           <Text>
+            <p style="text-align:left;">
+             <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Nachtragsposition sachlich anerkannt.</span>
+            </p>
+           </Text>
+          </DetailTxt>
+          <OutlineText>
+           <OutlTxt>
+            <TextOutlTxt>
+             <p>
+              <span>Nachtragsposition sachlich anerkannt</span>
+             </p>
+            </TextOutlTxt>
+           </OutlTxt>
+          </OutlineText>
+         </CompleteText>
+        </Description>
+       </Item>
+       <Item ID="DBEACDFI" RNoPart="80">
+        <Qty>10.000</Qty>
+        <QU>m</QU>
+        <Description>
+         <CompleteText>
+          <DetailTxt>
+           <Text>
+            <p style="text-align:left;">
+             <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">Nachtragsposition genehmigt.</span>
+            </p>
+           </Text>
+          </DetailTxt>
+          <OutlineText>
+           <OutlTxt>
+            <TextOutlTxt>
+             <p>
+              <span>Nachtragsposition genehmigt</span>
+             </p>
+            </TextOutlTxt>
+           </OutlTxt>
+          </OutlineText>
+         </CompleteText>
+        </Description>
+       </Item>
+      </Itemlist>
+     </BoQBody>
+    </BoQCtgy>
+   </BoQBody>
+  </BoQ>
+ </Award>
+</GAEB>

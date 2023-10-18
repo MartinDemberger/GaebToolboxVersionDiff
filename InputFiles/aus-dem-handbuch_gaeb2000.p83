@@ -1,0 +1,829 @@
+#begin[GAEB]
+ #begin[GAEBInfo]
+  [Version]1.1[end]
+  [VersMon]11[end]
+  [VersJahr]2000[end]
+  [Datum]26.10.2000[end]
+  [Zeichensatz]ANSI[end]
+  [Uhrzeit]12:18[end]
+  [ProgSystem]/ G2K Toolbox V1.1 Oct 20 2000[end]
+ #end[GAEBInfo]
+ #begin[PrjInfo]
+  [Name]GAEBAG13[end]
+  [Wae]DM[end]
+  [WaeBez]Deutsche Mark[end]
+ #end[PrjInfo]
+ #begin[Vergabe]
+  [DP]83[end]
+  #begin[VergabeInfo]
+   [Wae]DM[end]
+   [WaeBez]Deutsche Mark[end]
+  #end[VergabeInfo]
+  #begin[LV]
+   #begin[LVInfo]
+    [Name]Aufbau[end]
+    [Bez]Leistungsverzeichnis[end]
+    [KurzLang]3[end]
+    #begin[LVGlied]
+     [Typ]LVStufe[end]
+     [Bez]Titel[end]
+     [Laenge]2[end]
+    #end[LVGlied]
+    #begin[LVGlied]
+     [Typ]LVStufe[end]
+     [Bez]Titel[end]
+     [Laenge]2[end]
+    #end[LVGlied]
+    #begin[LVGlied]
+     [Typ]Position[end]
+     [Bez]Position[end]
+     [Laenge]4[end]
+    #end[LVGlied]
+   #end[LVInfo]
+   #begin[LVBereich]
+    [OZ]01[end]
+    [Bez]Beispiele aus unterschiedlichen Gewerken[end]
+    #begin[LVBereich]
+     [OZ]0101[end]
+     [Bez]Erdarbeiten[end]
+     #begin[Hinweis]
+      #begin[Beschreibung]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswiss Arial ;}}
+       Stämme und Geäst bis 5 cm Durchmesser sind vor dem\par
+       Verladen und Abtransport zu hächseln.\par
+       Stämme und Geäst ab 5 cm Durchmesser sind vor dem\par
+       Verladen und Abtransport in ca. 1m-Stücke zu\par
+       zerkleinern und zu bündeln.\par}
+       [end]
+      #end[Beschreibung]
+     #end[Hinweis]
+     #begin[Position]
+      [OZ]01010001[end]
+      [Menge]1[end]
+      [ME]psch[end]
+      #begin[Beschreibung]
+       [StLNr]9300201123000202[end]
+       [Langtext]{\rtf1{\fonttbl{\f0\fswiss Arial ;}}
+       Baugelände abräumen gemäß beiliegendem Lageplan,\par
+       in Teilflächen,\par
+       von Aufwuchs mit Stämmen bis 10 cm Durchmesser,\par
+       das abgeräumte Material getrennt nach Stoffen laden.\par
+       Abfuhr und Entsorgung werden gesondert vergütet.\par}
+       [end]
+      #end[Beschreibung]
+     #end[Position]
+     #begin[Position]
+      [OZ]01010002[end]
+      [Menge]15[end]
+      [ME]m2[end]
+      #begin[Beschreibung]
+       #begin[STLBBau]
+        [STLBBauKat]STLB-Bau|04|1999|080|355|[end]
+        [STLBBauIdent]3371|0|10[end]
+        [STLBBauIdent]1179|0|10[end]
+        [STLBBauIdent]2754|0|5[end]
+        [STLBBauIdent]2621|0|5[end]
+        [STLBBauIdent]2620|0|10[end]
+        [STLBBauIdent]58|0|8[end]
+        [STLBBauIdent]7691|0|1[end]
+        [STLBBauIdent]2922|0|10[end]
+        [STLBBauIdent]6080|0|7[end]
+        [STLBBauIdent]6081|0|5[end]
+        [STLBBauIdent]3227|0|60[end]
+        [STLBBauIdent]2136|0|1[end]
+       #end[STLBBau]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswiss Arial;}}
+       Plattenbelag aufnehmen, in Geh- und Radwegen, verlegt
+       in Sand, einschl. Bettung, Dicke 5 cm, Gehwegplatten
+       DIN 485 - 30 x 30 x 4, Fugenfüllung aus Sand, Platten
+       zur Wiederverwendung säubern und nach besonderer
+       Anordnung des AG innerhalb der Baustelle lagern, nicht
+       mehr verwendbare Stoffe in vom AG gestellten Behälter
+       sammeln.\par}
+       [end]
+      #end[Beschreibung]
+     #end[Position]
+     #begin[Position]
+      [OZ]01010003[end]
+      [Menge]150[end]
+      [ME]m2[end]
+      #begin[Beschreibung]
+       #begin[STLBBau]
+        [STLBBauKat]STLB-Bau|04|1999|002|526|[end]
+        [STLBBauIdent]3628|0|20[end]
+        [STLBBauIdent]3629|0|20[end]
+        [STLBBauIdent]3632|0|20[end]
+        [STLBBauIdent]5650|0|1[end]
+        [STLBBauIdent]5651|0|2[end]
+        [STLBBauIdent]3630|0|20[end]
+        [STLBBauIdent]3631|0|20[end]
+        [STLBBauIdent]2136|0|1[end]
+       #end[STLBBau]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswiss Arial;}}
+       Oberboden DIN 18300 abtragen, seitlich lagern und
+       später auftragen, von Böschungsflächen, Abtragdicke im
+       Mittel 20 cm, Auftragfläche geneigt. Auftragdicke im
+       Mittel 20 cm. Mengenermittlung nach Aufmaß an der
+       Entnahmestelle.\par}
+       [end]
+      #end[Beschreibung]
+     #end[Position]
+     #begin[Position]
+      [OZ]01010004[end]
+      [Menge]3[end]
+      [ME]m[end]
+      #begin[Beschreibung]
+       #begin[STLBBau]
+        [STLBBauKat]STLB-Bau|04|1999|002|536|[end]
+        [STLBBauIdent]3632|0|270[end]
+        [STLBBauIdent]3696|0|20[end]
+        [STLBBauIdent]3827|0|20[end]
+        [STLBBauIdent]3701|0|1[end]
+        [STLBBauIdent]2342|0|3[end]
+        [STLBBauIdent]3697|0|10[end]
+        [STLBBauIdent]3767|0|25[end]
+        [STLBBauIdent]3702|0|30[end]
+        [STLBBauIdent]3631|0|20[end]
+        [STLBBauIdent]2136|0|2[end]
+       #end[STLBBau]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswiss Arial;}}
+       Boden für Suchgraben, zur Freilegung von Kabeln, nach
+       Abtrag des Oberbodens, profilgerecht lösen, außerhalb
+       der Baugrube lagern,Aushubtiefe bis 0,8 m,
+       Sohlenbreite über 0,5 bis 0,6 m, Mengenermittlung nach
+       Aufmaß an der Entnahmestelle.
+       Bodenklasse 4\par}
+       [end]
+      #end[Beschreibung]
+     #end[Position]
+     #begin[Position]
+      [OZ]01010005[end]
+      [Menge]7[end]
+      [ME]m3[end]
+      #begin[Beschreibung]
+       [StLNr]9300221151521002[end]
+       [LangtextTA]J[end]
+       [LangtextTB]J[end]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswiss Arial;}}
+       Hinterfüllen\par
+       von Arbeitsräumen,\par
+       profilgerecht,\par
+       mit vom AN zu liefernden Stoffen,\par
+       {\bkmkstart TA31}
+       Stoff
+       {\bkmkstart Feld31}
+       Kies-Sand-Gemisch 0/32
+       {\bkmkend Feld31}
+       \par
+       {\bkmkend TA31}
+       oder gleichwertiger Art,\par
+       {\bkmkstart TB32}
+       Stoff
+       {\bkmkstart Feld32}
+       {\bkmkend Feld32}
+       ,\par
+       {\bkmkend TB32}
+       verdichten.\par
+       Einbauhöhe bis 0,80 m.\par}
+       [end]
+      #end[Beschreibung]
+     #end[Position]
+     #begin[Position]
+      [OZ]01010006[end]
+      [Menge]40,650[end]
+      [ME]m3[end]
+      #begin[Beschreibung]
+       [StLNr]9300214102028301[end]
+       [LangtextTA]J[end]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswiss Arial;}}
+       Boden für Streifenfundamente\par
+       profilgerecht lösen und seitlich lagern,\par
+       Aushub nach Abtrag des Oberbodens,\par
+       Breite der Fundamentsohle über 0,5 bis 1,0 m,\par
+       {\bkmkstart TA41}
+       Aushubtiefe in m
+       {\bkmkstart Feld41}
+       1,00
+       {\bkmkend Feld41}
+       ,\par
+       {\bkmkend TA41}
+       Bodenklasse 4.\par}
+       [end]
+      #end[Beschreibung]
+     #end[Position]
+     #begin[Position]
+      [OZ]01010007[end]
+      [Bedarf]E[end]
+      [Menge]2[end]
+      [ME]t[end]
+      #begin[Beschreibung]
+       #begin[STLBBau]
+        [STLBBauKat]STLB-Bau|04|1999|002|533|[end]
+        [STLBBauIdent]3853|0|7[end]
+        [STLBBauIdent]3854|0|70[end]
+        [STLBBauIdent]3265|0|110[end]
+        [STLBBauIdent]2136|0|5[end]
+       #end[STLBBau]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswiss Arial ;}}
+       Hindernis im Boden aus Einzelnatursteinen, aufnehmen,
+       laden, zur Lagerstelle des AG fördern und abladen
+       Förderweg bis 500 m.\par}
+       [end]
+      #end[Beschreibung]
+     #end[Position]
+     #begin[Position]
+      [OZ]01010008[end]
+      [BezugBeschr]B[end]
+      [Menge]10[end]
+      [ME]m3[end]
+      #begin[Beschreibung]
+       #begin[STLBBau]
+        [STLBBauKat]STLB-Bau|04|1999|002|539|[end]
+        [STLBBauIdent]3632|0|290[end]
+        [STLBBauIdent]3696|0|10[end]
+        [STLBBauIdent]3697|0|40[end]
+        [STLBBauIdent]2342|0|3[end]
+        [STLBBauIdent]3698|0|100[end]
+        [STLBBauIdent]3702|0|20[end]
+        [STLBBauIdent]3941|0|4[end]
+        [STLBBauIdent]3701|0|1[end]
+        [STLBBauIdent]2136|0|3[end]
+       #end[STLBBau]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswiss Arial;}}
+       Boden der Baugrube für Schächte, ab Geländeoberfläche,
+       profilgerecht lösen und seitlich lagern, Verbau wird
+       gesondert vergütet, Aushubtiefe bis 2,5 m,
+       Aushubgrundfläche über 3 bis 4 m2, Bodenklasse 4.\par}
+       [end]
+      #end[Beschreibung]
+     #end[Position]
+     #begin[Position]
+      [OZ]01010009[end]
+      [BezugBeschr]W[end]
+      [BezugOZ]01010008[end]
+      [Menge]8[end]
+      [ME]m3[end]
+      #begin[Beschreibung]
+       #begin[STLBBau]
+        [STLBBauKat]STLB-Bau|04|1999|002|539|[end]
+        [STLBBauIdent]3697|0|30[end]
+       #end[STLBBau]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswiss Arial;}}
+       Aushubtiefe bis 1,75 m\par}
+       [end]
+      #end[Beschreibung]
+     #end[Position]
+     #begin[Position]
+      [OZ]01010010[end]
+      [BezugBeschr]W[end]
+      [BezugOZ]01010008[end]
+      [Menge]7[end]
+      [ME]m3[end]
+      #begin[Beschreibung]
+       #begin[STLBBau]
+        [STLBBauKat]STLB-Bau|04|1999|002|539|[end]
+        [STLBBauIdent]3697|0|20[end]
+       #end[STLBBau]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswiss Arial;}}
+       Aushubtiefe bis 1,25 m\par}
+       [end]
+      #end[Beschreibung]
+     #end[Position]
+    #end[LVBereich]
+    #begin[LVBereich]
+     [OZ]0102[end]
+     [Bez]Schächte[end]
+     #begin[Position]
+      [OZ]01020001[end]
+      [ZZGruppeNr]1[end]
+      [ZZLfdNr]0[end]
+      [BezugBeschr]B[end]
+      [Menge]1[end]
+      [ME]St[end]
+      #begin[Beschreibung]
+       [StLNr]9500940005110223[end]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswiss Arial;}}
+       Schacht, rund, lichte Weite 1000 mm,\par
+       aus Betonfertigteilen DIN 4034-1, mit Schachtunterteil,\par
+       Schachtringe, Schachthals, Auflagering,\par
+       Anschlüsse für gelenkige Einbindung der Rohre\par
+       mit Muffe,\par
+       Fugendichtung mit Dichtring aus Elastomeren DIN 4060,\par
+       Gerinne gerade, Auskleidung Gerinne und Auftritt\par
+       mit Kanalklinkern DIN 4051,\par
+       größtes Rohr DN 250,\par
+       lichte Schachttiefe über 2 bis 2,5 m.\par}
+       [end]
+      #end[Beschreibung]
+     #end[Position]
+     #begin[Position]
+      [OZ]01020002[end]
+      [ZZGruppeNr]1[end]
+      [ZZLfdNr]0[end]
+      [BezugBeschr]W[end]
+      [BezugOZ]01020001[end]
+      [Menge]1[end]
+      [ME]St[end]
+      #begin[Beschreibung]
+       [StLNr]9500940005110222[end]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswiss Arial;}}
+       lichte Schachttiefe bis 2 m.\par}
+       [end]
+      #end[Beschreibung]
+     #end[Position]
+     #begin[Position]
+      [OZ]01020003[end]
+      [ZZGruppeNr]1[end]
+      [ZZLfdNr]0[end]
+      [BezugBeschr]W[end]
+      [BezugOZ]01020001[end]
+      [Menge]1[end]
+      [ME]St[end]
+      #begin[Beschreibung]
+       [StLNr]9500940005110221[end]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswiss Arial;}}
+       lichte Schachttiefe bis 1,5 m.\par}
+       [end]
+      #end[Beschreibung]
+     #end[Position]
+     #begin[Position]
+      [OZ]01020004[end]
+      [ZZGruppeNr]1[end]
+      [ZZLfdNr]0[end]
+      [Menge]25[end]
+      [ME]St[end]
+      #begin[Beschreibung]
+       [StLNr]9500969111020003[end]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswiss Arial;}}
+       Steigeisen DIN 1211\par
+       aus Gußeisen,\par
+       Steigmaß 250 mm,\par
+       Form E zum Einbauen in Betonfertigteile,\par
+       Einbau einschl. Befestigungsarbeiten und -mittel.\par}
+       [end]
+      #end[Beschreibung]
+     #end[Position]
+     #begin[Position]
+      [OZ]01020005[end]
+      [ZZGruppeNr]1[end]
+      [ZZLfdNr]1[end]
+      [BezugBeschr]B[end]
+      [Menge]1[end]
+      [ME]St[end]
+      #begin[Beschreibung]
+       [StLNr]9500940031111223[end]
+       [LangtextTA]J[end]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswiss Arial;}}
+       Schacht, rund, lichte Weite 1000 mm,\par
+       Schachtunterteil aus Ortbeton,\par
+       Bodenplatte aus Beton B 25 WU, mind. 20 cm dick,\par
+       {\bkmkstart TA21}
+       Wand aus Beton B 25 WU, Dicke in cm
+       {\bkmkstart Feld21}
+       20
+       {\bkmkend Feld21},\par
+       {\bkmkend TA21}
+       Höhe Unterteil mind. 25 cm über Rohrscheitel,\par
+       {\bkmkstart TA22}
+       Höhe des Auftritts
+       {\bkmkstart Feld22}
+       10 cm
+       {\bkmkend Feld22},\par
+       {\bkmkend TA22}
+       Schachtoberteil aus Betonfertigteilen DIN 4034-1,\par
+       gleiche Lichtweite wie Unterteil,\par
+       Schachtringe, Schachthals, Auflagering,\par
+       Anschlüsse für gelenkige Einbindung der Rohre\par
+       mit Muffe,\par
+       Fugendichtung mit Dichtring aus Elastomeren DIN 4060,\par
+       {\bkmkstart TA41}
+       Steigeinrichtung, Ausführung
+       {\bkmkstart Feld41}
+       DIN 1211, aus Gußeisen,\par
+       Steigmaß 250 mm, Form E zum Einbauen in Betonfertig-\par
+       teilen, Einbau einschl. Befestigungsarbeiten und\par
+       -mittel
+       {\bkmkend Feld41}
+       ,\par
+       {\bkmkend TA41}
+       Gerinne gerade, Auskleidung Gerinne und Auftritt\par
+       mit Kanalklinkern DIN 4051,\par
+       größtes Rohr DN 250,\par
+       lichte Schachttiefe über 2 bis 2,5 m.\par}
+       [end]
+      #end[Beschreibung]
+     #end[Position]
+     #begin[Position]
+      [OZ]01020006[end]
+      [ZZGruppeNr]1[end]
+      [ZZLfdNr]1[end]
+      [BezugBeschr]W[end]
+      [BezugOZ]01020005[end]
+      [Menge]1[end]
+      [ME]St[end]
+      #begin[Beschreibung]
+       [StLNr]9500940031111222[end]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswiss Arial;}}
+       lichte Schachttiefe bis 2 m.\par}
+       [end]
+      #end[Beschreibung]
+     #end[Position]
+     #begin[Position]
+      [OZ]01020007[end]
+      [ZZGruppeNr]1[end]
+      [ZZLfdNr]1[end]
+      [BezugBeschr]W[end]
+      [BezugOZ]01020005[end]
+      [Menge]1[end]
+      [ME]St[end]
+      #begin[Beschreibung]
+       [StLNr]9500940031111221[end]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswiss Arial;}}
+       lichte Schachttiefe bis 1,5 m.\par}
+       [end]
+      #end[Beschreibung]
+     #end[Position]
+     #begin[Position]
+      [OZ]01020008[end]
+      [ZZGruppeNr]1[end]
+      [ZZLfdNr]2[end]
+      [Menge]3[end]
+      [ME]St[end]
+      #begin[Beschreibung]
+       [StLNr]9500942502000242[end]
+       [LangtextTA]J[end]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswiss Arial;}}
+       Schachtunterteil DIN 19549, rund,\par
+       lichte Weite 1000 mm, \par
+       als Betonfertigteil DIN 4034-1,\par
+       Wand aus Stahlbeton B 25 WU, 20 cm dick,\par
+       Gerinne gerade, Auskleidung Gerinne und Auftritt mit\par
+       Kanalklinkern DIN 4051,\par
+       {\bkmkstart TA51}
+       Auftritt
+       {\bkmkstart Feld51}
+       10 cm hoch
+       {\bkmkend Feld51}
+       ,\par
+       {\bkmkend TA51}
+       größtes Rohr DN 250.\par}
+       [end]
+      #end[Beschreibung]
+     #end[Position]
+     #begin[Position]
+      [OZ]01020009[end]
+      [ZZGruppeNr]1[end]
+      [ZZLfdNr]2[end]
+      [Menge]10[end]
+      [ME]St[end]
+      #begin[Beschreibung]
+       [StLNr]9500949401220001[end]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswiss Arial;}}
+       Schachtring\par
+       SR-M DIN 4034-1,\par
+       Durchmesser 1000 mm,\par
+       Bauhöhe 500 mm.\par}
+       [end]
+      #end[Beschreibung]
+     #end[Position]
+     #begin[Position]
+      [OZ]01020010[end]
+      [ZZGruppeNr]1[end]
+      [ZZLfdNr]2[end]
+      [Menge]3[end]
+      [ME]St[end]
+      #begin[Beschreibung]
+       [StLNr]9500949801210001[end]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswiss Arial;}}
+       Schachthals\par
+       SH-M DIN 4034-1,\par
+       Durchmesser 1000 mm/625 mm,\par
+       Bauhöhe 600 mm,\par}
+       [end]
+      #end[Beschreibung]
+     #end[Position]
+     #begin[Position]
+      [OZ]01020011[end]
+      [ZZGruppeNr]1[end]
+      [ZZLfdNr]2[end]
+      [Menge]3[end]
+      [ME]St[end]
+      #begin[Beschreibung]
+       [StLNr]9500950112010001[end]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswiss Arial;}}
+       Auflagering\par
+       AR-V DIN 4034-1,\par
+       Bauhöhe 80 mm,\par
+       Fugendichtung mit Dichtring aus Elastomeren DIN 4060,\par}
+       [end]
+      #end[Beschreibung]
+     #end[Position]
+     #begin[Position]
+      [OZ]01020012[end]
+      [ZZGruppeNr]1[end]
+      [ZZLfdNr]2[end]
+      [Menge]25[end]
+      [ME]St[end]
+      #begin[Beschreibung]
+       [StLNr]9500969111020003[end]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswiss Arial;}}
+       Steigeisen DIN 1211\par
+       aus Gußeisen,\par
+       Steigmaß 250 mm,\par
+       Form E zum Einbauen in Betonfertigteile,\par
+       Einbau einschl. Befestigungsarbeiten und -mittel.\par}
+       [end]
+      #end[Beschreibung]
+     #end[Position]
+    #end[LVBereich]
+    #begin[LVBereich]
+     [OZ]0103[end]
+     [Bez]Trockenbauarbeiten[end]
+     #begin[Position]
+      [OZ]01030001[end]
+      [Menge]2500[end]
+      [ME]m2[end]
+      #begin[Beschreibung]
+       [StLNr]9703901321110104[end]
+       [LangtextTA]J[end]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswiss Arial;}}
+       Nichttragende innere Trennwand DIN 4103-1\par
+       Als Montagewand, Einbaubereich 1,\par
+       Höhe bis 3,5 m,\par
+       Dicke 100 mm,\par
+       {\bkmkstart TA22}
+       bewertetes Schalldämmaß DIN 4109 RW,R in dB
+       {\bkmkstart Feld22}
+       45
+       {\bkmkend Feld22}
+       ,\par
+       {\bkmkend TA22}
+       Feuerwiderstandsklasse DIN 4102-2 F 30\par
+       -A,\par
+       umlaufende Anschlüsse starr.\par
+       Ausführung wie folgt:\par}
+       [end]
+      #end[Beschreibung]
+      [LeitBeschr]J[end]
+      #begin[UnterBeschr]
+       [UbNr]01[end]
+       #begin[Beschreibung]
+        [StLNr]970391550301[end]
+        [Langtext]
+        {\rtf1{\fonttbl{\f0\fswissArial;}}
+        Unterkonstruktion\par
+        aus verzinkten Stahlblechprofilen DIN 18182-1/\par
+        DIN 18183,\par
+        als Einfachständerwerk.\par}
+        [end]
+       #end[Beschreibung]
+      #end[UnterBeschr]
+      #begin[UnterBeschr]
+       [UbNr]02[end]
+       #begin[Beschreibung]
+        [StLNr]9703915630210131[end]
+        [LangtextTA]J[end]
+        [Langtext]
+        {\rtf1{\fonttbl{\f0\fswissArial;}}
+        Dämmschicht\par
+        aus mineralischem Faserdämmstoff DIN 18165-1\par
+        in Platten,\par
+        einlagig, dicht stoßen,\par
+        abrutschsicher verlegen,\par
+        längenspezifischer Strömungswiderstand größer\par
+        5 kN x s/m4,\par
+        {\bkmkstart TA51}
+        Mindestrohdichte in kg/m3
+        {\bkmkstart Feld51}
+        40
+        {\bkmkend Feld51}
+        \par
+        {\bkmkend TA51}
+        Schmelzpunkt mind. 1000 K,\par
+        {\bkmkstart TA52}
+        Dicke in mm
+        {\bkmkstart Feld52}
+        40
+        {\bkmkend Feld52}
+        .\par
+        {\bkmkend TA52}}
+        [end]
+       #end[Beschreibung]
+      #end[UnterBeschr]
+      #begin[UnterBeschr]
+       [UbNr]03[end]
+       #begin[Beschreibung]
+        [StLNr]9703916520030111[end]
+        [Langtext]
+        {\rtf1{\fonttbl{\f0\fswissArial;}}
+        Beplankung, beidseitig,\par
+        Verarbeitung DIN 18181, einlagig,\par
+        aus Gipskarton-Feuerschutzplatten GKF DIN 18180,\par
+        Plattendicke 12,5 mm,\par
+        Befestigen mit Schnellbauschrauben DIN 18182-2.\par
+        Fugen füllen, sichtbare Befestigungsmittel und Fugen\par
+        spachteln.\par}
+        [end]
+       #end[Beschreibung]
+      #end[UnterBeschr]
+     #end[Position]
+    #end[LVBereich]
+    #begin[LVBereich]
+     [OZ]0104[end]
+     [Bez]Maler und Lackierarbeiten[end]
+     #begin[AusfBeschr]
+      [AusfNr]0001[end]
+      [AusfBez]Erneuerungsbeschichtungen der Garteneinrichtungen[end]
+      #begin[Beschreibung]
+       [StLNr]960345220204[end]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswissArial;}}
+       Erneuerungsbeschichtung\par
+       im Außenbereich.\par
+       Allseitig.\par}
+       [end]
+      #end[Beschreibung]
+      #begin[Beschreibung]
+       [StLNr]9603460801400011[end]
+       [LangtextTA]J[end]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswissArial;}}
+       Beschichtung aus Einkomponentenlack\par
+       {\bkmkstart TA23}
+       Beschaffenheit
+       {\bkmkstart Feld23}
+       stark abblätternd
+       {\bkmkend Feld23}
+       ,\par
+       {\bkmkend TA23}
+       bis zur tragfähigen Schicht entfernen\par
+       Anfallende Stoffe getrennt in vom AG gestellten\par
+       Behältern sammeln.\par}
+       [end]
+      #end[Beschreibung]
+      #begin[Beschreibung]
+       [StLNr]9603467007000001[end]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswissArial;}}
+       Fleckspachteln\par
+       Mit Kunstharzspachtelmasse,\par}
+       [end]
+      #end[Beschreibung]
+      #begin[Beschreibung]
+       [StLNr]9603472001131001[end]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswissArial;}}
+       Grundbeschichtung auf Untergrund aus Holz\par
+       mit Alkydharzlackfarbe,\par
+       wasserverdünnbar,\par
+       mit fungizidem und insektizidem Zusatzstoff,\par
+       absperren gegen verfärbende Inhaltsstoffe,\par}
+       [end]
+      #end[Beschreibung]
+      #begin[Beschreibung]
+       [StLNr]9603472201100001[end]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswissArial;}}
+       Eine Zwischenbeschichtung für Untergrund aus Holz\par
+       mit Alkydharzlackfarbe,\par
+       wasserverdünnbar,\par}
+       [end]
+      #end[Beschreibung]
+      #begin[Beschreibung]
+       [StLNr]9603473201120421[end]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswissArial;}}
+       Schlußbeschichtung für Untergrund aus Holz\par
+       mit Alkydharzlackfarbe,\par
+       wasserverdünnbar,\par
+       glänzend,\par
+       mittelgetönt.\par
+       Farbton nach Muster des AG.\par}
+       [end]
+      #end[Beschreibung]
+     #end[AusfBeschr]
+     #begin[Position]
+      [OZ]01040001[end]
+      [BezugAusfNr]0001[end]
+      [Menge]2[end]
+      [ME]St[end]
+      #begin[Beschreibung]
+       [StLNr]9700344110140001[end]
+       [LangtextTA]J[end]
+       [Langtext]{\rtf1{\fonttbl{\f0\fswiss Arial;}}
+       Gartentisch\par
+       {\bkmkstart TA21}
+       aus Holz, Art
+       {\bkmkstart Feld21}
+       Kiefernholz
+       {\bkmkend Feld21}
+       ,\par
+       {\bkmkend TA21}
+       {\bkmkstart TA31}
+       Maße in cm
+       {\bkmkstart Feld31}
+       80 x 100, 80 cm hoch
+       {\bkmkend TA31}
+       , \par
+       {\bkmkend TA31}
+       mit Bodenklammern,\par}
+       [end]
+      #end[Beschreibung]
+     #end[Position]
+     #begin[Position]
+      [OZ]01040002[end]
+      [BezugAusfNr]0001[end]
+      [Menge]8[end]
+      [ME]St[end]
+      #begin[Beschreibung]
+       [StLNr]9700344380540071[end]
+       [LangtextTA]J[end]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswiss Arial;}}
+       Gartenbank\par
+       {\bkmkstart TA21}
+       aus
+       {\bkmkstart Feld21}
+       Holzlattenprofilen 70 x 20 mm Querschnitt
+       {\bkmkend Feld21}
+       ,\par
+       {\bkmkend TA21}
+       {\bkmkstart TA31}
+       mit Rückenlehne, Maße in cm
+       {\bkmkstart Feld31}
+       Länge 160
+       {\bkmkend Feld31}
+       ,\par
+       {\bkmkend TA31}
+       mit Bodenklammern,\par
+       {\bkmkstart TA51}
+       {\bkmkstart Feld51}
+       in Beton dauerhaft befestigt
+       {\bkmkend Feld51}
+       .\par
+       {\bkmkend TA51}}
+       [end]
+      #end[Beschreibung]
+     #end[Position]
+     #begin[Position]
+      [OZ]01040003[end]
+      [BezugAusfNr]0001[end]
+      [Menge]15[end]
+      [ME]St[end]
+      #begin[Beschreibung]
+       [StLNr]9700344710100071[end]
+       [LangtextTA]J[end]
+       [Langtext]
+       {\rtf1{\fonttbl{\f0\fswiss Arial;}}
+       Sitzrost\par
+       {\bkmkstart TA21}
+       aus Holz, Art
+       {\bkmkstart Feld21}
+       Kieferholz
+       {\bkmkend Feld21}
+       ,\par
+       {\bkmkend TA21}
+       {\bkmkstart TA31}
+       Maße in cm
+       {\bkmkstart Feld31}
+       45 x 120
+       {\bkmkend Feld31}
+       ,\par
+       {\bkmkend TA31}
+       {\bkmkstart TA51}
+       {\bkmkstart Feld51}
+       an Betonsockel mit Dübel befestigt
+       {\bkmkend Feld51}
+       .\par
+       {\bkmkend TA51}}
+       [end]
+      #end[Beschreibung]
+     #end[Position]
+    #end[LVBereich]
+   #end[LVBereich]
+  #end[LV]
+ #end[Vergabe]
+#end[GAEB]89|289

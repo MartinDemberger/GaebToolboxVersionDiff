@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- GXML Toolbox V3.1 R20080717;  http://www.gaeb-toolbox.de/ 
+ gtcConverter.dll used version 1.3.1.17  -->
+<GAEB xmlns="http://www.gaeb.de/GAEB_DA_XML/200407">
+ <GAEBInfo>
+  <Version>3.1</Version>
+  <VersDate>2007-06</VersDate>
+  <Date>2009-01-12</Date>
+  <Time>08:24:22</Time>
+  <ProgSystem>/ GXML Toolbox V3.1 R20080717</ProgSystem>
+  <ProgName>ARRIBAp V12.4.482</ProgName>
+ </GAEBInfo>
+ <PrjInfo>
+  <NamePrj>GAEB0002</NamePrj>
+ </PrjInfo>
+ <Award>
+  <DP>84</DP>
+  <AwardInfo>
+   <Cur>EUR</Cur>
+   <CurLbl>Euro</CurLbl>
+  </AwardInfo>
+  <CTR>
+   <Address>
+    <Name1>Maler + Lackierer</Name1>
+    <Name4>Pinsel und Co KG</Name4>
+    <Street>Auswegstr. 33</Street>
+    <PCode>70327</PCode>
+    <City>Stuttgart</City>
+    <Country>BW</Country>
+    <Contact>Klecks</Contact>
+    <Phone>0711 / 11223</Phone>
+    <Fax>0711 / 39578</Fax>
+    <Email>pinsel@ildfh.de</Email>
+   </Address>
+   <DPNo/>
+   <AwardNo/>
+   <AcctsPayNo/>
+   <BidderNo>1</BidderNo>
+  </CTR>
+  <BoQ ID="DBBBAAAA">
+   <BoQInfo>
+    <Name>2008-001</Name>
+    <BoQBkdn>
+     <Type>BoQLevel</Type>
+     <LblBoQBkdn>Hauptgruppe</LblBoQBkdn>
+     <Length>1</Length>
+     <Num>Yes</Num>
+    </BoQBkdn>
+    <BoQBkdn>
+     <Type>BoQLevel</Type>
+     <LblBoQBkdn>Bereich</LblBoQBkdn>
+     <Length>2</Length>
+     <Num>Yes</Num>
+    </BoQBkdn>
+    <BoQBkdn>
+     <Type>BoQLevel</Type>
+     <LblBoQBkdn>Abschnitt</LblBoQBkdn>
+     <Length>2</Length>
+     <Num>Yes</Num>
+    </BoQBkdn>
+    <BoQBkdn>
+     <Type>Item</Type>
+     <Length>4</Length>
+     <Num>Yes</Num>
+    </BoQBkdn>
+    <BoQBkdn>
+     <Type>Index</Type>
+     <Length>1</Length>
+     <Num>No</Num>
+     <Alignment>left</Alignment>
+    </BoQBkdn>
+    <Totals>
+     <Total>1421003968.15</Total>
+     <VAT>19.00</VAT>
+     <TotalGross>1690994722.10</TotalGross>
+    </Totals>
+   </BoQInfo>
+   <BoQBody>
+    <BoQCtgy ID="DBCFAMJI" RNoPart="1">
+     <BoQBody>
+      <Remark ID="DBCFJCGA">
+       <Description>
+        <CompleteText>
+         <DetailTxt>
+          <TextComplement Kind="Bidder" MarkLbl="61" Empty="Yes">
+           <ComplBody>
+            <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">&#x27;&#x27;</span>
+           </ComplBody>
+          </TextComplement>
+         </DetailTxt>
+        </CompleteText>
+       </Description>
+      </Remark>
+      <BoQCtgy ID="DBCFGEAI" RNoPart="10">
+       <BoQBody>
+        <BoQCtgy ID="DBCFBFGI" RNoPart="10">
+         <BoQBody>
+          <Itemlist>
+           <Item ID="DBCFAAAA" RNoPart="10">
+            <UP>5400.000</UP>
+            <IT>5400.00</IT>
+           </Item>
+           <Item ID="DBCFFBJA" RNoPart="20">
+            <UP>2.610</UP>
+            <IT>522.00</IT>
+           </Item>
+           <Item ID="DBCFGKCA" RNoPart="30">
+            <UP>3.070</UP>
+            <IT>460.50</IT>
+           </Item>
+           <Item ID="DBCFNHII" RNoPart="40">
+            <UP>44.140</UP>
+            <IT>132.42</IT>
+           </Item>
+           <Item ID="DBCFDKHA" RNoPart="50">
+            <UP>20.000</UP>
+            <IT>6000.00</IT>
+            <Description>
+             <CompleteText>
+              <DetailTxt>
+               <TextComplement Kind="Bidder" MarkLbl="32" Empty="Yes">
+                <ComplBody>
+                 <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">&#x27;&#x27;</span>
+                </ComplBody>
+               </TextComplement>
+              </DetailTxt>
+             </CompleteText>
+            </Description>
+           </Item>
+           <Item ID="DBCFACLI" RNoPart="60">
+            <UP>20.000</UP>
+            <DiscountPcnt>10.00</DiscountPcnt>
+            <IT>720.00</IT>
+           </Item>
+           <Item ID="DBCFCKLA" RNoPart="70">
+            <UP>83.100</UP>
+            <IT>1662.00</IT>
+            <Description>
+             <CompleteText>
+              <DetailTxt>
+               <TextComplement Kind="Bidder" MarkLbl="11" Empty="Yes">
+                <ComplBody>
+                 <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">&#x27;&#x27;</span>
+                </ComplBody>
+               </TextComplement>
+              </DetailTxt>
+             </CompleteText>
+            </Description>
+           </Item>
+          </Itemlist>
+         </BoQBody>
+         <Totals>
+          <Total>14896.92</Total>
+          <DiscountPcnt>10.00</DiscountPcnt>
+          <TotAfterDisc>13407.23</TotAfterDisc>
+         </Totals>
+        </BoQCtgy>
+        <BoQCtgy ID="DBCFBIMI" RNoPart="11">
+         <BoQBody>
+          <Itemlist>
+           <Item ID="DBCFCGHI" RNoPart="10">
+            <UP>10.000</UP>
+            <IT>2000.00</IT>
+           </Item>
+           <Item ID="DBCFNKEA" RNoPart="20">
+            <UP>5000.000</UP>
+            <IT>5000.00</IT>
+           </Item>
+           <Item ID="DBCFAICI" RNoPart="30">
+            <UP>20.000</UP>
+            <IT>200.00</IT>
+           </Item>
+           <Item ID="DBCFBOOA" RNoPart="40">
+            <UP>10.000</UP>
+            <IT>2000.00</IT>
+           </Item>
+           <Item ID="DBCFDFAA" RNoPart="50">
+            <UP>2000.000</UP>
+            <IT>20000.00</IT>
+           </Item>
+          </Itemlist>
+         </BoQBody>
+         <Totals>
+          <Total>29200.00</Total>
+         </Totals>
+        </BoQCtgy>
+        <BoQCtgy ID="DBCFJNAA" RNoPart="15">
+         <BoQBody>
+          <Itemlist>
+           <Item ID="DBCFFHAA" RNoPart="10">
+            <UP>20.000</UP>
+            <IT>50000.00</IT>
+            <SubDescr>
+             <SubDNo>1</SubDNo>
+             <QU>----</QU>
+            </SubDescr>
+            <SubDescr>
+             <SubDNo>2</SubDNo>
+             <QU>----</QU>
+            </SubDescr>
+            <SubDescr>
+             <SubDNo>3</SubDNo>
+             <QU>----</QU>
+            </SubDescr>
+           </Item>
+          </Itemlist>
+         </BoQBody>
+         <Totals>
+          <Total>50000.00</Total>
+          <DiscountPcnt>10.00</DiscountPcnt>
+          <TotAfterDisc>45000.00</TotAfterDisc>
+         </Totals>
+        </BoQCtgy>
+        <BoQCtgy ID="DBCFFMHA" RNoPart="16">
+         <BoQBody>
+          <Itemlist>
+           <PerfDescr ID="DBCFAKOA">
+            <PerfNo>1003</PerfNo>
+            <Description>
+             <CompleteText>
+              <DetailTxt>
+               <TextComplement Kind="Bidder" MarkLbl="61" Empty="Yes">
+                <ComplBody>
+                 <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">&#x27;&#x27;</span>
+                </ComplBody>
+               </TextComplement>
+              </DetailTxt>
+             </CompleteText>
+            </Description>
+           </PerfDescr>
+           <Item ID="DBCFJKEI" RNoPart="10">
+            <UP>213.000</UP>
+            <IT>426.00</IT>
+           </Item>
+           <Item ID="DBCFOBDA" RNoPart="20">
+            <UP>180.000</UP>
+            <IT>1440.00</IT>
+           </Item>
+           <Item ID="DBCFNENA" RNoPart="30">
+            <UP>35.000</UP>
+            <IT>525.00</IT>
+           </Item>
+          </Itemlist>
+         </BoQBody>
+         <Totals>
+          <Total>2391.00</Total>
+         </Totals>
+        </BoQCtgy>
+        <BoQCtgy ID="DBCFCDBI" RNoPart="20">
+         <BoQBody>
+          <Itemlist>
+           <Item ID="DBCFGPJA" RNoPart="10">
+            <UP>200.000</UP>
+            <IT>200.00</IT>
+           </Item>
+           <Item ID="DBCFJFGA" RNoPart="11">
+            <UP>50.000</UP>
+            <IT>9000.00</IT>
+           </Item>
+           <Item ID="DBCFBMCI" RNoPart="12">
+            <UP>170.000</UP>
+            <IT>170.00</IT>
+           </Item>
+           <Item ID="DBCFNOHI" RNoPart="13">
+            <UP>86.000</UP>
+            <IT>2150.00</IT>
+           </Item>
+           <Item ID="DBCFIPKI" RNoPart="20">
+            <UP>200.000</UP>
+            <IT>200.00</IT>
+           </Item>
+           <Item ID="DBCFEDNI" RNoPart="21">
+            <UP>200.000</UP>
+            <IT>200.00</IT>
+           </Item>
+           <Item ID="DBCFKAGA" RNoPart="22">
+            <UP>300.000</UP>
+            <IT>300.00</IT>
+           </Item>
+           <Item ID="DBCFKMMA" RNoPart="30">
+            <UP>246.000</UP>
+            <IT>738.00</IT>
+           </Item>
+           <Item ID="DBCFFPNA" RNoPart="31">
+            <UP>55.000</UP>
+            <IT>550.00</IT>
+           </Item>
+           <Item ID="DBCFEONI" RNoPart="32">
+            <UP>45.000</UP>
+            <IT>135.00</IT>
+           </Item>
+           <Item ID="DBCFAPPI" RNoPart="33">
+            <UP>45.000</UP>
+            <IT>135.00</IT>
+           </Item>
+           <Item ID="DBCFDHLI" RNoPart="34">
+            <UP>35.000</UP>
+            <IT>875.00</IT>
+           </Item>
+          </Itemlist>
+         </BoQBody>
+         <Totals>
+          <Total>11520.00</Total>
+          <DiscountPcnt>-5.00</DiscountPcnt>
+          <TotAfterDisc>12096.00</TotAfterDisc>
+         </Totals>
+        </BoQCtgy>
+        <BoQCtgy ID="DBCFCNGI" RNoPart="25">
+         <BoQBody>
+          <Itemlist>
+           <Item ID="DBCFKDBI" RNoPart="10">
+            <UP>100.510</UP>
+            <UPComp1>100.510</UPComp1>
+            <UPComp2>0.000</UPComp2>
+            <UPComp3>0.000</UPComp3>
+            <UPComp4>0.000</UPComp4>
+            <IT>1240864096.99</IT>
+           </Item>
+           <Item ID="DBCFGHGI" RNoPart="20">
+            <UP>30.000</UP>
+            <UPComp1>0.000</UPComp1>
+            <UPComp2>30.000</UPComp2>
+            <UPComp3>0.000</UPComp3>
+            <UPComp4>0.000</UPComp4>
+            <IT>480.00</IT>
+           </Item>
+           <Item ID="DBCFHLNI" RNoPart="30">
+            <UP>90000000.000</UP>
+            <UPComp1>10000000.000</UPComp1>
+            <UPComp2>20000000.000</UPComp2>
+            <UPComp3>30000000.000</UPComp3>
+            <UPComp4>30000000.000</UPComp4>
+            <IT>180000000.00</IT>
+           </Item>
+          </Itemlist>
+         </BoQBody>
+         <Totals>
+          <Total>1420864576.99</Total>
+         </Totals>
+        </BoQCtgy>
+        <BoQCtgy ID="DBCFIMEI" RNoPart="30">
+         <BoQBody>
+          <Itemlist>
+           <Item ID="DBCFLMLA" RNoPart="10">
+            <Qty>10.000</Qty>
+            <UP>30.000</UP>
+            <UPComp1>5.120</UPComp1>
+            <UPComp2>4.880</UPComp2>
+            <UPComp3>0.000</UPComp3>
+            <UPComp4>20.000</UPComp4>
+            <IT>300.00</IT>
+           </Item>
+           <Item ID="DBCFMPOI" RNoPart="20">
+            <UP>27.910</UP>
+            <UPComp1>2.230</UPComp1>
+            <UPComp2>23.120</UPComp2>
+            <UPComp3>2.560</UPComp3>
+            <UPComp4>0.000</UPComp4>
+            <IT>2791.00</IT>
+           </Item>
+          </Itemlist>
+         </BoQBody>
+         <Totals>
+          <Total>3091.00</Total>
+         </Totals>
+        </BoQCtgy>
+        <BoQCtgy ID="DBCFEIMA" RNoPart="40">
+         <BoQBody>
+          <Itemlist>
+           <Item ID="DBCFMDKA" RNoPart="10">
+            <Qty>10.000</Qty>
+            <UP>20.000</UP>
+            <IT>200.00</IT>
+           </Item>
+           <Item ID="DBCFIJJA" RNoPart="20">
+            <UP>10.120</UP>
+            <IT>1012.00</IT>
+           </Item>
+           <Item ID="DBCFFEEI" RNoPart="30">
+            <Qty>126.646</Qty>
+            <UP>10.123</UP>
+            <IT>1282.04</IT>
+           </Item>
+          </Itemlist>
+         </BoQBody>
+         <Totals>
+          <Total>1212.00</Total>
+         </Totals>
+        </BoQCtgy>
+       </BoQBody>
+       <Totals>
+        <Total>1420969762.22</Total>
+        <DiscountAmt>10000.00</DiscountAmt>
+        <TotAfterDisc>1420959762.22</TotAfterDisc>
+       </Totals>
+      </BoQCtgy>
+      <BoQCtgy ID="DBCFMMII" RNoPart="20">
+       <BoQBody>
+        <Itemlist>
+         <Item ID="DBCFEMCA" RNoPart="10">
+          <UP>100.000</UP>
+          <IT>2000.00</IT>
+         </Item>
+         <Item ID="DBCFDAMI" RNoPart="20">
+          <UP>95.000</UP>
+          <IT>14250.00</IT>
+         </Item>
+         <Item ID="DBCFMAOI" RNoPart="40">
+          <UP>145.000</UP>
+          <IT>7250.00</IT>
+         </Item>
+         <Item ID="DBCFIDHI" RNoPart="50">
+          <UP>17.126</UP>
+          <IT>205.51</IT>
+         </Item>
+        </Itemlist>
+       </BoQBody>
+       <Totals>
+        <Total>23705.51</Total>
+        <TotalLSUM>20000.00</TotalLSUM>
+       </Totals>
+      </BoQCtgy>
+      <BoQCtgy ID="DBCFHGPI" RNoPart="30">
+       <BoQBody>
+        <BoQCtgy ID="DBCFLCHI" RNoPart="10">
+         <BoQBody>
+          <Itemlist>
+           <Item ID="DBCFMIFA" RNoPart="10">
+            <UP>10.000</UP>
+            <IT>100.00</IT>
+           </Item>
+           <Item ID="DBCFFJLI" RNoPart="20">
+            <UP>20.000</UP>
+            <IT>400.00</IT>
+           </Item>
+           <Item ID="DBCFGMNI" RNoPart="30">
+            <UP>30.000</UP>
+            <DiscountPcnt>5.00</DiscountPcnt>
+            <IT>855.00</IT>
+           </Item>
+           <MarkupItem ID="DBCFNCKA" RNoPart="40">
+            <ITMarkup>955.00</ITMarkup>
+            <Markup>10.00</Markup>
+            <IT>95.50</IT>
+           </MarkupItem>
+          </Itemlist>
+         </BoQBody>
+         <Totals>
+          <Total>1450.50</Total>
+         </Totals>
+        </BoQCtgy>
+        <BoQCtgy ID="DBCFIGDA" RNoPart="20">
+         <BoQBody>
+          <Itemlist>
+           <Item ID="DBCFKFNA" RNoPart="10">
+            <UP>10.000</UP>
+            <IT>100.00</IT>
+           </Item>
+           <Item ID="DBCFAFHA" RNoPart="20">
+            <UP>20.000</UP>
+            <IT>400.00</IT>
+           </Item>
+           <Item ID="DBCFKKAI" RNoPart="30">
+            <UP>30.000</UP>
+            <IT>900.00</IT>
+           </Item>
+           <MarkupItem ID="DBCFEGJA" RNoPart="40">
+            <ITMarkup>1400.00</ITMarkup>
+            <Markup>10.00</Markup>
+            <IT>140.00</IT>
+           </MarkupItem>
+           <MarkupItem ID="DBCFIBEI" RNoPart="50">
+            <ITMarkup>1400.00</ITMarkup>
+            <Markup>10.00</Markup>
+            <IT>140.00</IT>
+           </MarkupItem>
+           <Item ID="DBCFBCLA" RNoPart="60">
+            <UP>10.000</UP>
+            <IT>100.00</IT>
+           </Item>
+           <MarkupItem ID="DBCFODOI" RNoPart="70">
+            <ITMarkup>100.00</ITMarkup>
+            <Markup>10.00</Markup>
+            <IT>10.00</IT>
+           </MarkupItem>
+          </Itemlist>
+         </BoQBody>
+         <Totals>
+          <Total>1790.00</Total>
+         </Totals>
+        </BoQCtgy>
+        <BoQCtgy ID="DBCFLJFA" RNoPart="30">
+         <BoQBody>
+          <Itemlist>
+           <Item ID="DBCFHEEA" RNoPart="10">
+            <UP>10.000</UP>
+            <IT>100.00</IT>
+           </Item>
+           <Item ID="DBCFHOJA" RNoPart="20">
+            <UP>20.000</UP>
+            <IT>400.00</IT>
+           </Item>
+           <MarkupItem ID="DBCFJIBI" RNoPart="30">
+            <ITMarkup>400.00</ITMarkup>
+            <Markup>10.00</Markup>
+            <IT>40.00</IT>
+           </MarkupItem>
+           <MarkupItem ID="DBCFDOKI" RNoPart="40">
+            <ITMarkup>2791.00</ITMarkup>
+            <Markup>10.00</Markup>
+            <IT>279.10</IT>
+           </MarkupItem>
+          </Itemlist>
+         </BoQBody>
+         <Totals>
+          <Total>819.10</Total>
+         </Totals>
+        </BoQCtgy>
+       </BoQBody>
+       <Totals>
+        <Total>4059.60</Total>
+       </Totals>
+      </BoQCtgy>
+     </BoQBody>
+     <Totals>
+      <Total>1420983821.82</Total>
+     </Totals>
+    </BoQCtgy>
+    <BoQCtgy ID="DAKBAAAA" RNoPart="2">
+     <BoQBody>
+      <BoQCtgy ID="DAKBCMFI" RNoPart="1">
+       <BoQBody>
+        <BoQCtgy ID="DAKBAINA" RNoPart="1">
+         <BoQBody>
+          <Itemlist>
+           <Item ID="DAKBCDII" RNoPart="10">
+            <UP>30.123</UP>
+            <IT>301.23</IT>
+           </Item>
+           <Item ID="DAKBAGBI" RNoPart="20">
+            <UP>14.921</UP>
+            <IT>4476.30</IT>
+           </Item>
+           <Item ID="DAKBCPLI" RNoPart="20" RNoIndex="A">
+            <UP>5.123</UP>
+            <IT>512.30</IT>
+           </Item>
+           <Item ID="DAKBBMJI" RNoPart="30">
+            <UP>1.500</UP>
+            <IT>1.50</IT>
+           </Item>
+           <Item ID="DAKBDFCI" RNoPart="9999" RNoIndex="Z">
+            <UP>1.000</UP>
+            <IT>50.00</IT>
+            <Description>
+             <CompleteText>
+              <DetailTxt>
+               <TextComplement Kind="Bidder" MarkLbl="61" Empty="Yes">
+                <ComplBody>
+                 <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">&#x27;&#x27;</span>
+                </ComplBody>
+               </TextComplement>
+               <TextComplement Kind="Bidder" MarkLbl="62" Empty="Yes">
+                <ComplBody>
+                 <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">&#x27;&#x27;</span>
+                </ComplBody>
+               </TextComplement>
+               <TextComplement Kind="Bidder" MarkLbl="63" Empty="Yes">
+                <ComplBody>
+                 <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">&#x27;&#x27;</span>
+                </ComplBody>
+               </TextComplement>
+              </DetailTxt>
+             </CompleteText>
+            </Description>
+           </Item>
+          </Itemlist>
+         </BoQBody>
+         <Totals>
+          <Total>5341.33</Total>
+         </Totals>
+        </BoQCtgy>
+        <BoQCtgy ID="DAKBBBBA" RNoPart="3">
+         <BoQBody>
+          <Itemlist>
+           <Item ID="DAKBADGA" RNoPart="40">
+            <UP>1.000</UP>
+            <IT>1.00</IT>
+           </Item>
+           <Item ID="DAKBBEHA" RNoPart="50">
+            <UP>1.000</UP>
+            <IT>1.00</IT>
+           </Item>
+           <Item ID="DAKBDHOA" RNoPart="60">
+            <UP>1.000</UP>
+            <IT>1.00</IT>
+           </Item>
+           <Item ID="DAKBDKJI" RNoPart="70">
+            <UP>1.000</UP>
+            <IT>1.00</IT>
+           </Item>
+           <Item ID="DAKBBPFA" RNoPart="80">
+            <UP>1.000</UP>
+            <IT>1.00</IT>
+           </Item>
+          </Itemlist>
+         </BoQBody>
+         <Totals>
+          <Total>5.00</Total>
+         </Totals>
+        </BoQCtgy>
+        <BoQCtgy ID="DAKBANLA" RNoPart="4">
+         <BoQBody>
+          <Itemlist>
+           <Item ID="DAKBDNFA" RNoPart="10">
+            <UP>1000.000</UP>
+            <IT>1000.00</IT>
+           </Item>
+           <Item ID="DAKBCGEA" RNoPart="20">
+            <UP>100.000</UP>
+            <IT>100.00</IT>
+           </Item>
+           <Item ID="DAKBBJOA" RNoPart="30">
+            <UP>1000.000</UP>
+            <IT>1000.00</IT>
+           </Item>
+          </Itemlist>
+         </BoQBody>
+         <Totals>
+          <Total>2100.00</Total>
+         </Totals>
+        </BoQCtgy>
+        <BoQCtgy ID="DAKBCIPI" RNoPart="5">
+         <BoQBody>
+          <Itemlist>
+           <Item ID="DAKBBHCI" RNoPart="10">
+            <UP>200.000</UP>
+            <IT>400.00</IT>
+           </Item>
+           <Item ID="DAKBDCHA" RNoPart="20">
+            <UP>100.000</UP>
+            <IT>300.00</IT>
+            <Description>
+             <CompleteText>
+              <DetailTxt>
+               <TextComplement Kind="Bidder" MarkLbl="63" Empty="Yes">
+                <ComplBody>
+                 <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">&#x27;&#x27;</span>
+                </ComplBody>
+               </TextComplement>
+               <TextComplement Kind="Bidder" MarkLbl="64" Empty="Yes">
+                <ComplBody>
+                 <span style="font-family:Arial;font-size:10pt;color:rgb(0,0,0);">&#x27;&#x27;</span>
+                </ComplBody>
+               </TextComplement>
+              </DetailTxt>
+             </CompleteText>
+            </Description>
+           </Item>
+          </Itemlist>
+         </BoQBody>
+         <Totals>
+          <Total>700.00</Total>
+         </Totals>
+        </BoQCtgy>
+       </BoQBody>
+       <Totals>
+        <Total>8146.33</Total>
+       </Totals>
+      </BoQCtgy>
+     </BoQBody>
+     <Totals>
+      <Total>8146.33</Total>
+     </Totals>
+    </BoQCtgy>
+    <BoQCtgy ID="DBJCAMGA" RNoPart="3">
+     <BoQBody>
+      <Itemlist>
+       <Item ID="DBJCABIA" RNoPart="10">
+        <UP>30.000</UP>
+        <IT>3000.00</IT>
+       </Item>
+       <Item ID="DBJCAJKI" RNoPart="20">
+        <UP>30.000</UP>
+        <IT>3000.00</IT>
+       </Item>
+       <Item ID="DBJCAEDI" RNoPart="30">
+        <UP>30.000</UP>
+        <IT>3000.00</IT>
+       </Item>
+       <Item ID="DBJCAGPA" RNoPart="40">
+        <UP>30.000</UP>
+        <IT>3000.00</IT>
+       </Item>
+      </Itemlist>
+     </BoQBody>
+     <Totals>
+      <Total>12000.00</Total>
+     </Totals>
+    </BoQCtgy>
+   </BoQBody>
+  </BoQ>
+ </Award>
+</GAEB>

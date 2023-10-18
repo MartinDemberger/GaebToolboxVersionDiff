@@ -101,6 +101,7 @@ namespace GaebToolBoxVersionCompare2
             var gaeb2000ErrorCount = 0;
             var gaebXmlErrorCount = 0;
 
+            AnsiConsole.Record();
             AnsiConsole.Live(table)
                 .AutoClear(false)
                 .Start(ctx =>
@@ -113,6 +114,7 @@ namespace GaebToolBoxVersionCompare2
                             new Markup("...", new Style(decoration: Decoration.Dim)),
                              new Markup("...", new Style(decoration: Decoration.Dim)));
                         ctx.Refresh();
+                        fileCount++;
 
                         var rowNumber = table.Rows.Count - 1;
 
@@ -140,20 +142,23 @@ namespace GaebToolBoxVersionCompare2
                                 table.Rows.Update(rowNumber, column, new Markup("[red]ERROR[/]"));
                                 errors.Add(errorDetails);
                             }
-                            fileCount++;
                             ctx.Refresh();
                         }
                     }
                 });
 
+            AnsiConsole.Record();
+            AnsiConsole.Write(table);
+
             AnsiConsole.Write(new BarChart()
                 .Label("Success rate")
                 .CenterLabel()
                 .AddItem("Total", fileCount)
-                .AddItem("Errors GAEB-90", gaeb90ErrorCount, Color.Yellow)
-                .AddItem("Errors GAEB-2000", gaeb2000ErrorCount, Color.IndianRed)
+                .AddItem("Errors GAEB-90", gaeb90ErrorCount, Color.Red)
+                .AddItem("Errors GAEB-2000", gaeb2000ErrorCount, Color.Red)
                 .AddItem("Errors GAEB-XML", gaebXmlErrorCount, Color.Red)
                 );
+            AnsiConsole.WriteLine();
 
             for (var i = 0; i < Math.Min(settings.ErrorsToPrint, errors.Count); i++)
             {
@@ -192,6 +197,21 @@ namespace GaebToolBoxVersionCompare2
                 if (errors[i].Exception != null)
                     AnsiConsole.WriteException(errors[i].Exception);
             }
+
+            var htmlOutput = AnsiConsole.ExportHtml();
+            var htmlOutputFile = Path.Combine(settings.OutputPath, "report.html");
+            File.WriteAllText(htmlOutputFile, htmlOutput);
+
+            var textOutput = AnsiConsole.ExportText();
+            var textOutputFile = Path.Combine(settings.OutputPath, "report.txt");
+            File.WriteAllText(textOutputFile, textOutput);
+
+            AnsiConsole.Write(new Rule().DoubleBorder());
+            AnsiConsole.Write("Output exported to ");
+            AnsiConsole.Write(new TextPath(htmlOutputFile));
+            AnsiConsole.Write(" and ");
+            AnsiConsole.Write(new TextPath(textOutputFile));
+            AnsiConsole.WriteLine();
         }
 
         private static List<string> ReadFileList(string inputPath)
